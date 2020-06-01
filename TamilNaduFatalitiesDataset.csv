@@ -1,0 +1,134 @@
+Death.No;Age;Date.Of.Admission;Date.Of.Death;Reason;Hospital
+23;NA;NA;NA;NA;NA
+24;NA;NA;NA;NA;NA
+25;68;NA;NA;NA;private hospital died due to COVID-19 infection on 28
+26;65;NA;NA;NA;RGGGH died due to COVID-19 infection on 29
+27;27;NA;NA;NA;Kasturba Gandhi Hospital died on 27
+28;98;NA;NA;NA;Omandurar MCH died due to COVID-19 infection on 01
+29;76;NA;NA;NA;RGGGH died due to COVID-19 infection on 01
+30;44;NA;NA;NA;RGGGH died due to COVID-19 infection on 03
+32;56;26.04.2020;04.05.2020;NA;Kilpauk MCH, died on 04
+33;60;02.05.2020;04.05.2020;NA;Kilpauk MCH died on 04
+34;68;05.05.2020;05.05.2020;NA;Stanley MCH, died on 05
+35;59;03.05.2020;05.05.2020;NA;Kilpauk MCH died on 05
+36;56;01.05.2020;06.05.2020;NA;Kilpauk MCH, died on 06
+37;48;03.05.2020;07.05.2020;NA;RGGGH, died on 07
+38;78;30.04.2020;07.05.2020;NA;RGGGH, died on 07
+39;56;06.05.2020;07.05.2020;NA;RGGGH, died on 07
+40;83;06.05.2020;07.05.2020;NA;Tirunelveli MCH, died on 07
+41;67;01.05.2020;08.05.2020;NA;RGGGH, died on 08
+42;70;05.05.2020;09.05.2020;NA;Sivagangai Medical College, died on 09
+43;58;07.05.2020;08.05.2020;NA;Kilpauk MCH, died on 08
+44;73;04.05.2020;04.05.2020;NA;Kilpauk MCH, died on 04
+45;74;08.05.2020;08.05.2020;NA;Chengalpattu MCH, died on 08
+46;59;07.05.2020;10.05.2020;NA;Stanley MCH, died on 10
+47;55;04.05.2020;09.05.2020;NA;Kilpauk MCH, died on 09
+54;69;08.05.2020;11.05.2020;NA;RGGGH, died on 11
+55;75;04.05.2020;11.05.2020;NA;Kilpauk MCH, died on 11
+56;63;08.05.2020;11.05.2020;NA;RGGGH, died on 11
+57;43;11.05.2020;11.05.2020;NA;RGGGH, died on 11
+58;55;10.05.2020;10.05.2020;NA;RGGGH, died on 10
+59;57;11.05.2020;11.05.2020;NA;Stanley MCH, died on 11
+60;70;10.05.2020;12.05.2020;NA;Kilpauk MCH, died on 12
+61;58;10.05.2020;12.05.2020;NA;Kilpauk MCH, died on 12
+62;41;06.05.2020;12.05.2020;Respiratory Failure;Kilpauk MCH, died on 12
+63;43;13.05.2020;13.05.2020;Pneumonia , Respiratory Failure;RGGGH, died on 13
+64;48;12.05.2020;12.05.2020;Bilateral Pneumonia , Respiratory Failure;RGGGH, died on 12
+65;43;08.05.2020;14.05.2020;Respiratory Failure , Pneumonia;RGGGH, died on 14
+66;45;07.05.2020;13.05.2020;Acute Respiratory Distress Syndrome , Respiratory Failure;RGGGH, died on 13
+67;NA;05.05.2020;14.05.2020;Acute on Chronic Kidney Disease , Respiratory Failure;RGGGH, died on 14
+68;32;12.05.2020;14.05.2020;Acute Pulmonary Edema with Metabolic Acidosis , Respiratory Failure;RGGGH, died on 14
+69;57;13.05.2020;15.05.2020;Acute Respiratory Distress and Bilateral Pneumonia , Respiratory Failure;Omandurar Medical College Hospital, died on 15
+70;61;14.05.2020;15.05.2020;Metabolic Encephalopathy;Stanley Medical College Hospital, died on 15
+71;34;11.05.2020;15.05.2020;Ascending Polyneuritis , Respiratory Failure;Thoothukudi Medical College Hospital, died on 15
+72;NA;9.05.2020;11.05.2020;NA;NA
+73;55;12.05.2020;15.05.2020;COVID Pneumonia;NA
+74;78;10.05.2020;15.05.2020;Diabetic Ketoacidosis ,Acute Respiratory failure ,COVID Pneumonia;Omandurar Medical College Hospital, died on 15
+75;63;15.05.2020;16.05.2020;Respiratory Failure , Acute Pulmonary Edema;Rajiv Gandhi Government General Hospital died on 16
+76;44;16.05.2020;16.05.2020;Sepsis , Septic shock;Government Stanley Medical College Hospital died on 16
+77;45;07.05.2020;16.05.2020;Chronic Bronchial Asthma with Respiratory Failure;Government Stanley Medical College Hospital died on 16
+78;NA;12.05.2020;17.05.2020;Acute Respiratory Distress Syndrome , Respiratory Failure;Rajiv Gandhi Government General Hospital died on 17
+79;53;16.05.2020;17.05.2020;Respiratory Failure , Acute Respiratory Distress Syndrome with Pneumonia;RGGGH, died on 17
+80;65;15.05.2020;17.05.2020;Acute Encephalopathy and Bilateral Pneumonia;RGGGH, died on 17
+81;70;17.05.2020;18.05.2020;Left Intertrochanteric Fracture with Pulmonary Embolism;Stanley Medical College Hospital, died on 18
+82;64;15.05.2020;18.05.2020;Respiratory Failure, Carcinoma Stomach with Hepatic Metastasis;RGGGH, died on 18
+83;72;18.05.2020;18.05.2020;Respiratory Failure,COVID - 19 Positive Bilateral Viral Pneumonia , Acute Respiratory Distress Syndrome;RGGGH, died on 18
+84;82;11.05.2020;18.05.2020;Respiratory Failure , Acute Respiratory Distress Syndrome , COVID -19 Pneumonia;RGGGH, died on 18
+85;44;18.05.2020;19.05.2020;Respiratory Failure, Acute Respiratory Distress Syndrome,Viral Pneumonia;RGGGH, died on 19
+86;52;19.05.2020;20.05.2020;Respiratory Failure,Acute Respiratory Distress Syndrome,Sepsis,Septic Shock;RGGGH, died on 20
+87;70;17.05.2020;19.05.2020;Cardiogenic shock,Acute Coronary Syndrome- Unstable Angina,Old Inferior Wall Myocardial Infarction Coronary Heart Disease;Stanley Medical College Hospital, died on 19
+88;62;15.05.2020;20.05.2020;Respiratory Failure, Acute Respiratory Distress Syndrome, Pneumonia;RGGGH, died on 20
+N0.94;80;19.05.2020;20.05.2020;Acute Respiratory Distress Syndrome and Pneumonia with Multi Organ failure;a Private Hospital, Chennai, died on 20
+95;81;20.05.2020;22.05.2020;Respiratory Failure , Pneumonia , Acute Respiratory Distress Syndrome;RGGGH, died on 22
+96;51;20.05.2020;21.05.2020;Cardiogenic shock , Acute Coronary Syndrome , Acute Extensive Myocardial Infarction and Systemic Hypertension;Stanley MCH, died on 21
+97;70;10.05.2020;22.05.2020;Metabolic Encephalopathy , Accelerated Hypertension , Cardiogenic Shock , COVID-19 , Type 2 DM , Systemic Hypertension;Theni Medical College Hospital, died on 22
+98;72;18.05.2020;22.05.2020;Respiratory Failure , Chronic Obstructive Airway Disease;Chengalpattu MCH, died on 22
+99;67;16.05.2020;20.05.2020;Acute Respiratory Distress Syndrome and Type I Respiratory failure;Private Hospital, died on 20
+100;75;14.05.2020;22.05.2020;Senile Dementia , Chronic Debilitated State , Aspiration Pneumonitis , COVID Positive;Government Stanley Hospital           died on 22
+101;68;21.05.2020;22.05.2020;Respiratory Failure , COVID²19 Pneumonia , Systemic Hypertension , Type 2 Diabetes Mellitus;RGGGH, died on 22
+102;54;20.05.2020;22.05.2020;Respiratory Failure , COVID²19 Positive Status , Bilateral Pneumonia , Type 2 Diabetes Mellitus;RGGGH, died on 22
+103;53;17.05.2020;23.05.2020;Acute Pulmonary Edema , Systemic Hypertension , COVID Positive Status , COVID Pneumonia , Respiratory Failure;Government Medical College and Hospital, Omandurar Govt Estate, died on 23
+104;50;22.05.2020 4.44;22.05.2020;Respiratory Failure,Acute on Chronic Kidney Disease;NA
+106;NA;20.05.2020;23.05.2020;Respiratory Failure,Acute Encephalopathy(Septic,Metabolic);NA
+107;NA;20.05.2020;23.05.2020;Systemic Hypertension ,Morbid obesity,Obstructive Sleep Apnoea,Viral Pneumonia;Stanley Medical College Hospital, died on 23
+108;NA;22.05.2020;23.05.2020;Diabetes Mellitus,Viral Pneumonitis;Stanley Medical College Hospital, died on 23
+109;46;20.05.2020;23.05.2020;Respiratory Failure,Covid -19 Pneumonia        24*7 Control Room: 044-29510400, 044-29510500, 9444340496, 8754448477             District Control Room – 1077;RGGGH, died on 23
+110;NA;19.05.2020;21.05.2020;Severe Acute Respiratory Distress Syndrome - Type 1 Respiratory Failure;NA
+111;NA;20.05.2020;21.05.2020;Severe Acute Respiratory Distress Syndrome - Type 1 Respiratory Failure;NA
+112;33;23.05.2020;NA;Septic shock , Respiratory Failure;NA
+113;72;23.05.2020;24.05.2020;Cardio Pulmonary Arrest , COVID Positive Pneumonia;NA
+114;55;22.05.2020;25.05.2020;Cardio Pulmonary Arrest , COVID Positive Pneumonia , Self Inflicted Cut Throat Injury;NA
+115;68;22.05.2020;25.05.2020;Cardio Pulmonary Arrest , COVID Positive Pneumonia;NA
+N0.117;86;20.05.2020;24.05.2020;Type II Respiratory Failure;a private Hospital in Chennai and died on 24
+119;80;16.05.2020;NA;Respiratory Failure , Septicemia , Metabolic Encephalopathy , Aspiration Pneumonia;Chengalpattu Medical College Hospital, died on 25
+120;57;25.05.2020;26.05.2020;ARDS , Respiratory Failure , COVID Pneumonia , COVID positive;Government Omandurar Medical College and Hospital
+121;45;24.05.2020;24.05.2020;NA;RGGGH referred from private hospital died on 24
+122;NA;24.05.2020;26.05.2020;Systemic Hypertension , COVID Pneumonia , Cardiopulmonary Arrest;RGGGH referred from Railway Hospital, Perambur died on 26
+N0.125;53;02.05.2020;23.05.2020;Septic shock with Multi Organ Dysfunction Syndrome and Pneumonia;a private hospital, died on 23
+126;65;24.05.2020;NA;Acute Respiratory Distress Syndrome;breathing, fever, cough for 5 days admitted on 24
+127;76;24.5.2020;25.05.2020;Sepsis , Septic Shock , Multi Organ Dysfunction Syndrome;breathing admitted on 24
+128;74;11.05.2020;25.05.2020;Respiratory Failure , Acute Exacerbation of bronchial Asthma;Chengalpattu Medical College Hospital died on 25
+129;78;25.05.2020;26.05.2020;Cardiopulmonary arrest , COVID-19 positive Pneumonia , Left Ventricular Dysfunction , Cardiogenic Shock , Type II Diabetes Mellitus , Systemic Hypertension , Coronary Artery Disease;RGGGH
+130;54;22.05.2020;26.05.2020;Cardiopulmonary arrest , COVID-19 positive Pneumonia;RGGGH
+131;51;24.05.2020;26.05.2020;Cardiopulmonary arrest ,COVID-19 Positive Pneumonia , Systemic Hypertension;RGGGH
+132;39;23.05.2020;26.05.2020;Cardiopulmonary arrest , COVID-19 positive Pneumonia , Type II Diabetes Mellitus , Systemic Hypertension , Obesity;RGGGH, COVID test sample taken on 22
+133;79;26.05.2020;26.05.2020;Cardiopulmonary arrest , COVID-19 positive Pneumonia , Type II Diabetes Mellitus , Systemic Hypertension , Pulmonary Tuberculosis Sequelae;RGGGH, COVID test sample taken on 25
+134;72;11.05.2020;26.05.2020;Viral Pneumonia;NA
+135;62;24.05.2020;27.05.2020;Cardiopulmonary arrest , Atypical Pneumonia;breathing admitted on 24
+136;54;26.05.2020;NA;Severe Acute Respiratory Syndrome;NA
+137;65;25.05.2020;27.05.2020;Acute Pulmonary Edema;Government Medical College & Hospital, Omandurar Government Estate
+139;44;15.05.2020;26.05.2020;Acute Coronary Syndrome , Inferior Wall Myocardial Infarction ,  I Degree block , Cardiogenic Shock , T2 DM , SHT;Chengalpattu Medical College hospital, died on 26
+140;36;25.05.2020;27.05.2020;Cardiopulmonary arrest , COVID-19 Positive Status , Hemoptysis , Aspiration pneumonitis , Old Pulmonary Tuberculosis;RGGGH
+141;65;23.05.2020;27.05.2020;Cardiopulmonary arrest , Grade III COVID-19 Positive Pneumonia , Acute Respiratory Distress Syndrome ,Systemic Hypertension , Coronary Artery Disease;RGGGH, referred from ESI Hospital, Ayanavaram
+142;60;24.05.2020;27.05.2020;Cardiopulmonary arrest , Grade III COVID-19 positive Pneumonia , Systemic Hypertension , Type II Diabetes Mellitus;RGGGH
+143;64;27.05.2020;27.05.2020;Cardiopulmonary arrest , Acute Coronary Syndrome , Inferior Wall Myocardial Infarction – Post Thrombolysis State , COVID-19 positive status , Cardiogenic Shock , Type II Diabetes Mellitus , Coronary Artery Disease;RGGGH
+144;68;27.05.2020;28.05.2020;Cardiopulmonary arrest , COVID-19 positive pneumonia;RGGGH
+145;75;26.05.2020;28.05.2020;Cardiopulmonary arrest , COVID-19 Positive Pneumonia , Acute Exacerbation of Bronchial Asthma , Systemic Hypertension;RGGGH
+146;70;25.05.2020;27.05.2020;Cardiopulmonary Arrest , Grade I COVID Pneumonia , Systemic Hypertension , Type II Diabetes Mellitus , Old Cerebrovascular Accident;RGGGH
+147;66;26.05.2020;27.05.2020;Cardiopulmonary Arrest , COVID Pneumonia , Systemic Hypertension , Chronic Kidney Disease on Maintenance Haemodialysis;RGGGH
+148;85;27.05.2020;28.05.2020;Cardiopulmonary Arrest , COVID Pneumonia , Systemic Hypertension , Coronary Artery Disease , Heart Failure with Reduced Ejection Fraction , Chronic Obstructive Pulmonary Disease , Old Cerebrovascular Accident , Seizure Disorder , Benign Prostatic Hypertrophy;RGGGH
+149;77;27.05.2020;28.05.2020;Cardiopulmonary Arrest , COVID19 Pneumonia , Systemic Hypertension , Chronic Kidney Disease , Old Cerebrovascular Accident , Hepatitis B Infection;RGGGH
+N0.150;32;28.05.2020;28.05.2020;Cardiopulmonary Arrest , COVID19 Pneumonia , Type I Respiratory Failure , Hypoxic Encephalopathy , Acute Respiratory Distress Syndrome;RGGGH
+151;62;27.05.2020;27.05.2020;Acute Respiratory Distress Syndrome;NA
+152;63;20.05.2020;27.05.2020;Respiratory Failure;NA
+153;58;23.05.2020;27.05.2020;Respiratory Failure;NA
+154;86;21.05.2020;28.05.2020;Respiratory Failure;NA
+155;54;28.05.2020;29.05.2020;COVID Pneumonia , Respiratory Failure , Acute Respiratory Distress Syndrome;Government Medical College & Hospital, Omandurar Government Estate
+156;69;27.05.2020;30.05.2020;Cardiopulmonary Arrest , COVID-19 Positive Status , Sepsis , Septic Shock , Type II Diabetes mellitus , systemic Hypertension , Chronic Kidney Disease on Maintenance Haemodialysis , Hepatitis C Positive status;RGGGH 
+157;58;27.05.2020;29.05.2020;Cardiopulmonary Arrest , COVID-19 Pneumonia, Acute Respiratory Distress Syndrome , Acute kidney injury ,Type II Diabetes Mellitus , Systemic Hypertension;RGGGH Hospital
+158;37;27.05.2020;28.05.2020;Cardiopulmonary Arrest , Right Lower Lobe COVID Pneumonia , Hypoxic Respiratory Failure, Acute Encephalopathy;RGGGH
+159;70;30.05.2020;30.05.2020;Cardiopulmonary Arrest , COVID-19 Pneumonia , Acute Coronary Syndrome , Myocardial Infarction, severe left ventricular dysfunction, Cardiogenic shock, Systemic Hypertension, Type II Diabetes Mellitus , Coronary artery disease;RGGGH
+160;72;19.05.2020;29.05.2020;Cardiopulmonary Arrest , COVID 19 Pneumonia , Acute Respiratory Distress Syndrome , Shock , Acute Encephalopathy , Adenocarcinoma right lung on chemotherapy;RGGGH
+161;78;28.05.2020;29.05.2020;NA;NA
+162;74;25.05.2020;30.05.2020;Respiratory Failure;NA
+163;63;27.05.2020;30.05.2020;Respiratory Failure;NA
+164;49;29.05.2020;29.05.2020;Respiratory Failure , Pneumonia;NA
+165;37;16.05.2020;29.05.2020;Acute Respiratory Distress Syndrome;NA
+166;60;30.05.2020;31.05.2020;Cardiopulmonary Arrest , COVID -19 Pneumonia , Acute Respiratory Distress Syndrome , Type II Diabetes Mellitus , Systemic Hypertension , Hypothyroidism , Coronary artery disease , Status Post Coronary Artery Bypass Grafting;RGGGH
+167;62;28.05.2020; 31.05.2020;Cardiopulmonary Arrest , COVID 19  Pneumonia , Respiratory Failure , Acute Respiratory Distress Syndrome  , Hypoxic Encephalopathy; RGGGH
+168;80;NA; 30.05.2020;Cardiopulmonary Arrest , COVID -19  Pneumonia , Acute Respiratory Distress Syndrome , Acute Kidney Injury  , Type II Diabetes Mellitus;RGGGH
+169;55;25.05.2020; 30.05.2020;Cardiopulmonary Arrest , Grade II COVID  Pneumonia , Renal Failure , Respiratory Failure , Systemic  Hypertension; RGGGH
+170;77; 24.05.2020;30.05.2020;Type I Respiratory  Failure , Cardiopulmonary Arrest ,           COVID 19 Positive Status ,  Aspiration Pneumonitis , Systemic Hypertension , Old Cerebrovascular  Accident , Left Hemiparesis;RGGGH
+171;39;30.05.2020;30.05.2020;Cardiopulmonary Arrest , COVID Pneumonia , Respiratory Failure , Chronic Kidney Disease;RGGGH
+172;70;28.05.2020;29.05.2020;Respiratory Failure , Uncontrolled Diabetes Mellitus , Systemic Hypertension , COVID Positive;GRH, Madurai
+173;70;30.05.2020;30.05.2020;Accelerated Hypertension , Acute Pulmonary Edema , SHT , COVID Positive;Government Medical College and Hospital, Omandurar Govt
