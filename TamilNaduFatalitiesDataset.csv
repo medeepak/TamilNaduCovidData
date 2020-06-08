@@ -210,3 +210,38 @@ N0.150,32,MALE,28.05.2020,28.05.2020,Cardiopulmonary Arrest ; COVID19 Pneumonia 
 249,69,MALE,30.05.2020,NA,NA,Private Hospital Chennai
 250,57,MALE,27.05.2020,NA,Septic Shock and Acute Respiratory Distress Syndrome,Private Hospital Chennai
 251,80,FEMALE,30.05.2020,NA,Severe Acute Respiratory Distress Syndrome,Private Hospital Chennai
+252,73,MALE,02.06.2020,02.06.2020,Severe Pneumonia ; Acute Respiratory Distress Syndrome,Chennai
+253,87,FEMALE,26.05.2020,03.06.2020,Severe Pneumonia,Chennai
+254,51,FEMALE,30.05.2020,05.06.2020,Acute Respiratory Distress Syndrome,Chennai
+255,74,MALE,22.05.2020,02.06.2020,Ischemic Heart Disease ; Pneumonia,Chennai
+256,69,MALE,02.06.2020,04.06.2020,Cardiogenic Shock ; Severe LV Dysfunction ; Pneumonia,
+257,71,MALE,05.06.2020,06.06.2020,Cardiopulmonary Arrest ; B;L Pneumonia ; COVID-19,RGGGH
+258,70,FEMALE,04.06.2020,07.06.2020,Cardiopulmonary Arrest ; COVID-19 Pneumonia,RGGGH
+259,72,MALE,02.06.2020,05.06.2020,Broncho Pneumonia ; Hypoxic Encephalopathy ; Respiratory Failure ; COVID-19 Positive ; Type 2 Diabetes Mellitus ; Systemic Hypertension,Government Stanley Hospital
+260,20,FEMALE,31.05.2020,06.06.2020,Grade 3 Abruption ; Acute Renal Failure ; MODS ; Cardiorespiratory Arrest ; Severe Preeclampsia ; COVID-19 Positive,Government Medical College Hospital Vellore
+261,58,MALE,01.06.2020,06.06.2020,Cardiopulmonary Arrest ; COVID Pneumonia ; Type 2 Diabetes Mellitus,RGGGH
+262,55,MALE,30.05.2020,06.06.2020,Acute Inferior Wall Myocardial Infarction ; Diabetic Ketoacidosis ; Renal Failure ; Diabetes Mellitus ; Systemic Hypertension ; COVID Positive,Government Medical College Hospital Omandurar Government Estate Chennai
+263,61,FEMALE,06.06.2020,06.06.2020,Cardiopulmonary Arrest ; COVID Pneumonia ; Type 2 Diabetes Mellitus,RGGGH
+264,63,FEMALE,01.06.2020,06.06.2020,Systemic Hypertension ; B;L Pneumonia ; COVID-19 Positive,Chengalpattu Medical College Hospital
+265,65,MALE,01.06.2020,06.06.2020,Cardiopulmonary Arrest ; COVID Pneumonia ; Type 2 Diabetes Mellitus,RGGGH
+266,72,MALE,01.06.2020,06.06.2020,Cardiopulmonary Arrest ; COVID 19 Pneumonia ; Coronary Artery Disease ; S;P CABG,RGGGH
+267,44,MALE,30.05.2020,06.06.2020,Cardiopulmonary Arrest ; B;L Pneumonia ; COVID-19,RGGGH
+268,49,MALE,05.06.2020,06.06.2020,Cardiopulmonary Arrest ; COVID Pneumonia,RGGGH
+269,50,MALE,30.05.2020,06.06.2020,Cardiopulmonary Arrest ; COVID-19 Pneumonia,RGGGH
+270,NA,MALE,02.06.2020,NA,Sepsis with Septic Shock ; ARDS,Chennai
+271,NA,FEMALE,03.06.2020,07.06.2020,Bilateral Pneumonia COVID Related,Chennai
+272,83,MALE,04.06.2020,07.06.2020,Cardiopulmonary Arrest ; COVID Pneumonia ; ARDS,Rajiv Gandhi Government General Hospital Chennai
+273,68,MALE,06.06.2020,07.06.2020,Cardiopulmonary Arrest ; COVID Pneumonia,Rajiv Gandhi Government General Hospital Chennai
+274,NA,MALE,05.06.2020,NA,Respiratory Failure,Government HeadQuarters Hospital Kanchipuram
+275,62,MALE,07.06.2020,07.06.2020,Severe Acute Respiratory Illness – COVID Positive Status ; Respiratory Failure ; Newly Diagnosed Diabetes Mellitus,Government Vellore Medical College Hospital
+276,70,MALE,04.06.2020,07.06.2020,ACS ; Diabetes Mellitus Type 2 ; Systemic Hypertension ; Bronchopneumonia ; COVID Positive,Government Stanley Hospital
+277,62,FEMALE,03.06.2020,06.06.2020,Respiratory Failure ; Bronchopneumonia ; Diabetes Mellitus ; COVID Positive,Government Stanley Hospital
+278,55,MALE,03.06.2020,07.06.2020,NA,KAPV Government Medical College MGMGH Trichy
+279,92,MALE,06.06.2020,07.06.2020,Cardiopulmonary Arrest ; COVID-19 Pneumonia ; Respiratory Failure ;Systemic Hypertension ; CKD Stage V,Rajiv Gandhi Government General Hospital Chennai
+280,74,MALE,04.06.2020,07.06.2020,Cardiopulmonary Arrest ; COVID Pneumonia ; Systemic Hypertension,Rajiv Gandhi Government General Hospital Chennai
+281,58,FEMALE,04.06.2020,07.06.2020,Cardiopulmonary Arrest ; COVID Pneumonia ; IHD ; Type 2 Diabetes Mellitus,Rajiv Gandhi Government General Hospital Chennai
+282,49,MALE,06.06.2020,07.06.2020,Cardiopulmonary Arrest ; COVID Pneumonia ; Systemic Hypertension ; Type II Diabetes Mellitus,Rajiv Gandhi Government General Hospital Chennai
+283,56,MALE,03.06.2020,07.06.2020,Cardiopulmonary Arrest ; COVID-19 Pneumonia ; Type II Diabetes Mellitus,Rajiv Gandhi Government General Hospital Chennai
+284,22,MALE,31.05.2020,07.06.2020,Cardiopulmonary Arrest ; COVID Pneumonia ; Frontal Subdural Haemorrhage,Rajiv Gandhi Government General Hospital Chennai
+285,51,MALE,NA,07.06.2020,Cardiopulmonary Arrest ; COVID Pneumonia ; Respiratory Failure ; Type II Diabetes Mellitus,Rajiv Gandhi Government General Hospital Chennai
+286,55,FEMALE,07.06.2020,NA,NA,Government Villupuram Medical College Hospital Villupuram
