@@ -393,3 +393,47 @@ N0.150,32,MALE,28.05.2020,28.05.2020,Cardiopulmonary Arrest ; COVID19 Pneumonia 
 433,56,FEMALE,03.06.2020,03.06.2020,Uncontrolled Diabetes Mellitus ; Hypertension; COVID Pneumonia; COVID Positive,Government Rajaji Hospital Madurai
 434,55,MALE,11.06.2020,11.06.2020,Chronic Liver Disease ; Cardiac Arrest ; Type II Diabetes Mellitus,Chengalpattu Medical College Hospital Chengalpattu
 435,60,FEMALE,07.06.2020,07.06.2020,Coronary Artery Disease ; Evolved Inferior wall Myocardial Infarction ; Cardiogenic shock ; COVID Positive,Vellore Medical College Hospital Vellore
+436,42,MALE,12.06.2020,12.06.2020,Multi Organ Dysfunction Syndrome ; ARDS,
+437,41,MALE,05.06.2020,05.06.2020,Respiratory Failure,
+438,69,MALE,07.06.2020. 05.59,07.06.2020. 05.59,Respiratory Failure,
+439,54,MALE,30.05.2020,30.05.2020,COVID Pneumonia ; ARDS,Chennai
+440,NA,MALE,06.06.2020. 07.43,06.06.2020. 07.43,Severe Acute Respiratory                       Distress Syndrome ; Acute Kidney Injury,
+441,70,MALE,06.06.2020,06.06.2020,Respiratory Failure ; Multi Organ Dysfunction Syndrome,
+442,79,FEMALE,06.06.2020. 04.12,06.06.2020. 04.12,Severe Acute Respiratory Distress Syndrome,
+443,67,FEMALE,31.05.2020. 08.51,31.05.2020. 08.51,Cardiorespiratory Arrest ; Septic Shock ; COVID Pneumonia ; ARDS,
+444,NA,MALE,09.06.2020. 11.35,09.06.2020. 11.35,Respiratory Failure,
+445,57,FEMALE,05.06.2020. 11.08,05.06.2020. 11.08,Respiratory Failure,
+446,66,FEMALE,07.06.2020,07.06.2020,Respiratory Failure,
+447,68,MALE,11.05.2020,11.05.2020,Cardiorespiratory Arrest ; Septic Shock ; Pneumonia,Chennai
+448,63,MALE,13.06.2020. 12.40,13.06.2020. 12.40,ARDS ; Respiratory Failure,
+449,67,FEMALE,01.06.2020,01.06.2020,Diabetes Mellitus ; Systemic Hypertension ; Bronchopneumonia ; Respiratory Failure ; COVID Positive,Government Stanley Hospital Chennai
+450,39,MALE,08.06.2020,08.06.2020,Sepsis ; Septic Encephalopathy ; Bronchopneumonia ; COVID Positive,Government Stanley Hospital Chennai
+451,NA,MALE,10.06.2020,10.06.2020,Diabetes Mellitus ; Systemic Hypertension ; Old Pulmonary Tuberculosis ; Bronchopneumonia ; Respiratory Failure ; COVID Positive,Government Stanley Hospital Chennai
+452,56,FEMALE,08.06.2020,08.06.2020,Diabetes Mellitus ; Systemic Hypertension ; Uncontrolled Hyperglycemia ; Bronchopneumonia ; Respiratory Failure ; COVID Positive,Government Stanley Hospital Chennai
+453,65,FEMALE,10.06.2020,10.06.2020,Diabetes Mellitus ; Systemic Hypertension ; Bronchopneumonia ; Respiratory Failure ; COVID Positive,Government Stanley Hospital Chennai
+454,60,MALE,10.06.2020,10.06.2020,Systemic Hypertension ; Bronchopneumonia ; COVID Positive,Government Stanley Hospital Chennai
+455,76,MALE,05.06.2020,05.06.2020,Septic Encephalopathy ; Sepsis ; Orbital Cellulitis ; Diabetes Mellitus ; Systemic Hypertension ; COVID Positive,Government Stanley Hospital Chennai
+456,76,MALE,NA,NA,Respiratory Failure ; Viral Pneumonia ; Diabetes Mellitus,Government Chengalpattu Medical College Hospital Chengalpattu
+457,62,FEMALE,NA,NA,Respiratory Failure ; Acute Viral Pneumonitis ; Type II Diabetes Mellitus ; Hypertension,Government Chengalpattu Medical College Hospital Chengalpattu
+458,71,MALE,NA,NA,Cardiopulmonary Arrest ; Bilateral COVID Pneumonia ; Respiratory Failure ; Type II Diabetes Mellitus,RGGGH Chennai
+459,72,MALE,NA,NA,Diabetic Ketoacidosis ; Acute Respiratory Distress Syndrome ; Respiratory Failure ; Diabetes Mellitus + Coronary Artery Disease ; COVID Positive,Government Medical College Hospital Omandurar
+460,68,MALE,NA,NA,Cardiopulmonary Arrest ; COVID Pneumonia ; Cardio Respiratory Arrest ; Type II Diabetes Mellitus ; Systemic Hypertension,RGGGH Chennai
+461,78,MALE,NA,NA,Cardiopulmonary Arrest ; COVID Pneumonia ; Respiratory Failure ; Cardio Pulmonary Arrest ; Type Diabetes Mellitus,RGGGH Chennai
+462,32,MALE,NA,NA,NA,RGGGH Chennai
+463,75,MALE,NA,NA,Cardiopulmonary Arrest ; COVID Pneumonia ; Acute Respiratory Syndrome ; Respiratory Failure ; Old Tuberculosis,RGGGH Chennai
+464,74,FEMALE,NA,NA,Cardiopulmonary Arrest ; Bilateral Pneumonia Respiratory Failure ; COVID Positive ; Type II Diabetes Mellitus ; Systemic Hypertension,RGGGH Chennai
+465,70,MALE,NA,NA,Cardiopulmonary Arrest ; Acute Respiratory Distress Syndrome ; COVID Pneumonia ; Respiratory Failure ; Type II Diabetes Mellitus,RGGGH Chennai
+466,60,FEMALE,NA,NA,Cardiopulmonary Arrest COVID Positive ; Cerebrovascular Accident ; Cardiomegaly ; Pulmonary Hypertension,RGGGH Chennai
+467,47,FEMALE,NA,NA,Cardiopulmonary Arrest ; Bilateral Pneumonia ; ARDS ; Respiratory Failure ; Hypothyroidism,RGGGH Chennai
+468,45,MALE,NA,NA,Cardiopulmonary Arrest ; Viral Pneumonia ; COVID Positive ; Post Renal Transplant ; Pulmonary Tuberculosis,RGGGH Chennai
+469,52,MALE,NA,NA,NA,Kilpauk Medical College Chennai
+470,41,MALE,NA,NA,Viral Pneumonia ; Systemic Hypertension ; COVID Status Positive,Kilpauk Medical College Chennai
+471,73,MALE,13.06.2020,13.06.2020,Cardiopulmonary Arrest                     ; COVID Pneumonia ; Respiratory Failure ; Type II Diabetes Mellitus ; Systemic Hypertension,RGGGH Chennai
+472,35,FEMALE,10.06.2020,10.06.2020,Bronchopneumonia ; Respiratory Failure ; COVID Positive,Government Stanley Hospital Chennai
+473,70,MALE,13.06.2020,13.06.2020,Respiratory Failure ; Viral Pneumonia,Government Chengalpattu Medical College Hospital Chengalpattu
+474,65,FEMALE,09.06.2020,09.06.2020,Cardiopulmonary Arrest ; Pneumonia ; Respiratory Failure,RGGGH Chennai
+475,45,MALE,10.06.2020,10.06.2020,Cardiopulmonary Arrest ; COVID Pneumonia ; Respiratory Failure,RGGGH Chennai
+476,70,MALE,09.06.2020,09.06.2020,Cardiopulmonary Arrest ; COVID Pneumonia ; Cardiopulmonary Arrest,RGGGH Chennai
+477,75,MALE,06.06.2020,06.06.2020,Cardiopulmonary Arrest ; COVID Pneumonia ; Acute Respiratory Distress Syndrome ; Respiratory Failure,RGGGH Chennai
+478,34,MALE,08.06.2020,08.06.2020,Cardiopulmonary Arrest ; COVID Pneumonia ; Respiratory Failure,RGGGH Chennai
+479,72,MALE,10.06.2020,10.06.2020,Bronchopneumonia ; Respiratory Failure ; COVID Positive        24*7 Control Room: 044-29510400; 044-29510500; 9444340496; 8754448477             District Control Room – 1077,Government Stanley Hospital Chennai
