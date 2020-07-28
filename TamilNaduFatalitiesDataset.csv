@@ -36,18 +36,18 @@ Death.No,Age,Gender,Date.Of.Admission,Date.Of.Death,Reason,Hospital
 64,48,MALE,12.05.2020,12.05.2020,Bilateral Pneumonia ; Respiratory Failure,RGGGH
 65,43,MALE,08.05.2020,14.05.2020,Respiratory Failure ; Pneumonia,RGGGH
 66,45,FEMALE,07.05.2020,13.05.2020,Acute Respiratory Distress Syndrome ; Respiratory Failure,RGGGH
-67,NA,FEMALE,05.05.2020,14.05.2020,Acute on Chronic Kidney Disease ; Respiratory Failure,RGGGH
+67,53,FEMALE,05.05.2020,14.05.2020,Acute on Chronic Kidney Disease ; Respiratory Failure,RGGGH
 68,32,MALE,12.05.2020,14.05.2020,Acute Pulmonary Edema with Metabolic Acidosis ; Respiratory Failure,RGGGH
 69,57,MALE,13.05.2020,15.05.2020,Acute Respiratory Distress and Bilateral Pneumonia ; Respiratory Failure,Omandurar Medical College Hospital
 70,61,MALE,14.05.2020,15.05.2020,Metabolic Encephalopathy,Stanley Medical College Hospital
 71,34,MALE,11.05.2020,15.05.2020,Ascending Polyneuritis ; Respiratory Failure,Thoothukudi Medical College Hospital
-72,NA,FEMALE,9.05.2020,11.05.2020,NA,
+72,65,FEMALE,9.05.2020,11.05.2020,NA,
 73,55,MALE,12.05.2020,15.05.2020,COVID Pneumonia,
 74,78,MALE,10.05.2020,15.05.2020,Diabetic Ketoacidosis ;Acute Respiratory failure ;COVID Pneumonia,Omandurar Medical College Hospital
 75,63,MALE,15.05.2020,16.05.2020,Respiratory Failure ; Acute Pulmonary Edema,Rajiv Gandhi Government General Hospital
 76,44,FEMALE,16.05.2020,16.05.2020,Sepsis ; Septic shock,Government Stanley Medical College Hospital
 77,45,FEMALE,07.05.2020,16.05.2020,Chronic Bronchial Asthma with Respiratory Failure,Government Stanley Medical College Hospital
-78,NA,MALE,12.05.2020,17.05.2020,Acute Respiratory Distress Syndrome ; Respiratory Failure,Rajiv Gandhi Government General Hospital
+78,40,MALE,12.05.2020,17.05.2020,Acute Respiratory Distress Syndrome ; Respiratory Failure,Rajiv Gandhi Government General Hospital
 79,53,FEMALE,16.05.2020,17.05.2020,Respiratory Failure ; Acute Respiratory Distress Syndrome with Pneumonia,RGGGH
 80,65,FEMALE,15.05.2020,17.05.2020,Acute Encephalopathy and Bilateral Pneumonia,RGGGH
 81,70,FEMALE,17.05.2020,18.05.2020,Left Intertrochanteric Fracture with Pulmonary Embolism,Stanley Medical College Hospital
@@ -69,12 +69,12 @@ N0.94,80,MALE,19.05.2020,20.05.2020,Acute Respiratory Distress Syndrome and Pneu
 102,54,MALE,20.05.2020,22.05.2020,Respiratory Failure ; COVID²19 Positive Status ; Bilateral Pneumonia ; Type 2 Diabetes Mellitus,RGGGH
 103,53,MALE,17.05.2020,23.05.2020,Acute Pulmonary Edema ; Systemic Hypertension ; COVID Positive Status ; COVID Pneumonia ; Respiratory Failure,Government Medical College Hospital Omandurar
 104,50,MALE,22.05.2020 4.44,22.05.2020,Respiratory Failure;Acute on Chronic Kidney Disease,
-106,NA,MALE,20.05.2020,23.05.2020,Respiratory Failure;Acute Encephalopathy(Septic;Metabolic),
-107,NA,MALE,20.05.2020,23.05.2020,Systemic Hypertension ;Morbid obesity;Obstructive Sleep Apnoea;Viral Pneumonia,Stanley Medical College Hospital
-108,NA,FEMALE,22.05.2020,23.05.2020,Diabetes Mellitus;Viral Pneumonitis,Stanley Medical College Hospital
+106,62,MALE,20.05.2020,23.05.2020,Respiratory Failure;Acute Encephalopathy(Septic;Metabolic),
+107,52,MALE,20.05.2020,23.05.2020,Systemic Hypertension ;Morbid obesity;Obstructive Sleep Apnoea;Viral Pneumonia,Stanley Medical College Hospital
+108,60,FEMALE,22.05.2020,23.05.2020,Diabetes Mellitus;Viral Pneumonitis,Stanley Medical College Hospital
 109,46,MALE,20.05.2020,23.05.2020,Respiratory Failure;Covid -19 Pneumonia        24*7 Control Room: 044-29510400; 044-29510500; 9444340496; 8754448477             District Control Room – 1077,RGGGH
-110,NA,MALE,19.05.2020,21.05.2020,Severe Acute Respiratory Distress Syndrome - Type 1 Respiratory Failure,
-111,NA,MALE,20.05.2020,21.05.2020,Severe Acute Respiratory Distress Syndrome - Type 1 Respiratory Failure,
+110,68,MALE,19.05.2020,21.05.2020,Severe Acute Respiratory Distress Syndrome - Type 1 Respiratory Failure,
+111,57,MALE,20.05.2020,21.05.2020,Severe Acute Respiratory Distress Syndrome - Type 1 Respiratory Failure,
 112,33,MALE,23.05.2020,NA,Septic shock ; Respiratory Failure,
 113,72,MALE,23.05.2020,24.05.2020,Cardio Pulmonary Arrest ; COVID Positive Pneumonia,
 114,55,MALE,22.05.2020,25.05.2020,Cardio Pulmonary Arrest ; COVID Positive Pneumonia ; Self Inflicted Cut Throat Injury,
@@ -83,7 +83,7 @@ N0.117,86,FEMALE,20.05.2020,24.05.2020,Type II Respiratory Failure,Hospital Chen
 119,80,MALE,16.05.2020,NA,Respiratory Failure ; Septicemia ; Metabolic Encephalopathy ; Aspiration Pneumonia,Chengalpattu Medical College Hospital
 120,57,MALE,25.05.2020,26.05.2020,ARDS ; Respiratory Failure ; COVID Pneumonia ; COVID positive,Government Omandurar Medical College Hospital
 121,45,FEMALE,24.05.2020,24.05.2020,NA,RGGGH
-122,NA,MALE,24.05.2020,26.05.2020,Systemic Hypertension ; COVID Pneumonia ; Cardiopulmonary Arrest,RGGGH Railway Hospital Perambur
+122,55,MALE,24.05.2020,26.05.2020,Systemic Hypertension ; COVID Pneumonia ; Cardiopulmonary Arrest,RGGGH Railway Hospital Perambur
 N0.125,53,FEMALE,02.05.2020,23.05.2020,Septic shock with Multi Organ Dysfunction Syndrome and Pneumonia,
 126,65,MALE,24.05.2020,NA,Acute Respiratory Distress Syndrome,
 127,76,MALE,24.5.2020,25.05.2020,Sepsis ; Septic Shock ; Multi Organ Dysfunction Syndrome,
@@ -249,8 +249,8 @@ N0.150,32,MALE,28.05.2020,28.05.2020,Cardiopulmonary Arrest ; COVID19 Pneumonia 
 288,71,MALE,28.5.2020,07.06.2020,Respiratory Failure & Acute Respiratory Syndrome – COV 2,Private
 289,85,MALE,06.06.2020,NA,Septic Shock ; Atypical Pneumonia,Vomiting Loose Stools
 290,NA,MALE,02.06.2020,07.06.2020,NA,
-291,NA,MALE,26.05.2020,NA,Severe COVID 19 Pneumonia ; ARDS ; Multi Organ Dysfunction Syndrome,Chennai
-292,NA,MALE,28.05.2020,07.06.2020,Respiratory Failure & Cardiac Arrest,Chennai Complaints
+291,47,MALE,26.05.2020,NA,Severe COVID 19 Pneumonia ; ARDS ; Multi Organ Dysfunction Syndrome,Chennai
+292,53,MALE,28.05.2020,07.06.2020,Respiratory Failure & Cardiac Arrest,Chennai Complaints
 293,52,MALE,01.06.2020,08.06.2020,Acute Respiratory Distress Syndrome ; Respiratory Failure ; COVID pneumonia ; COVID Positive,Government Medical College Hospital Omandurar
 294,39,MALE,07.06.2020,09.06.2020,Cardiopulmonary Arrest ; COVID Pneumonia,Rajiv Gandhi Government General Hospital Chennai
 295,63,MALE,30.05.2020,08.06.2020,Cardiopulmonary Arrest ; COVID -19 pneumonia,Rajiv Gandhi Government General Hospital Chennai
@@ -286,9 +286,9 @@ N0.150,32,MALE,28.05.2020,28.05.2020,Cardiopulmonary Arrest ; COVID19 Pneumonia 
 325,62,FEMALE,04.06.2020,09.06.2020,Diabetes Mellitus ; Metabolic Encephalopathy ; COVID Pneumonia ; Acute Respiratory Failure,Government Medical College Omandurar Govt Estate
 326,78,MALE,03.06.2020,09.06.2020,Diabetes Mellitus ; Acute pulmonary Oedema ; ACUTE Respiratory Failure ; COVID Positive,Government Medical College Omandurar Govt Estate
 327,75,MALE,03.06.2020,10.06.2020,ARDS ; Multi Organ Dysfunction Syndrome ; SARS COVID-2 Pneumonia,
-328,NA,MALE,27.05.2020,11.06.2020,NA,
+328,72,MALE,27.05.2020,11.06.2020,NA,
 329,68,MALE,04.06.2020,08.06.2020,PNEUMONIA ; TYPE II DIABETES MELLITUS ; SHTN ; CKD,Breathing Days
-330,NA,FEMALE,28.05.2020,10.06.2020,Sepsis ; Type II Respiratory Failure,Breathing
+330,83,FEMALE,28.05.2020,10.06.2020,Sepsis ; Type II Respiratory Failure,Breathing
 331,48,MALE,05.06.2020,11.06.2020,Cardiopulmonary Arrest ; COVID Pneumonia,Rajiv Gandhi Government General Hospital Chennai
 332,41,MALE,07.06.2020,10.06.2020,Acute Respiratory Distress Syndrome ; Viral Pneumonia ; COVID Status Positive,Kilpauk Medical College Chennai
 333,64,FEMALE,07.06.2020,10.06.2020,SHT ; B ; L Bronchopneumonia ; Sepsis induced AKI ; Respiratory failure ; COVID Positive,Government Stanley Medical College Hospital
@@ -309,12 +309,12 @@ N0.150,32,MALE,28.05.2020,28.05.2020,Cardiopulmonary Arrest ; COVID19 Pneumonia 
 348,55,MALE,07.06.2020,11.06.2020,Viral Pneumonia ; Type II Diabetes Mellitus ; COVID Status Positive,Kilpauk Medical College Chennai
 349,81,MALE,07.06.2020,09.06.2020,Bronchopneumonia ; Respiratory Failure ; COVID Positive,Government Stanley Medical College Hospital
 350,38,MALE,30.5.2020,11.06.2020,Respiratory Failure; Septic Shock With Multi Organ Dysfunction Syndrome,
-351,NA,MALE,03.06.2020,10.06.2020,Viral Pneumonia,Chennai
+351,73,MALE,03.06.2020,10.06.2020,Viral Pneumonia,Chennai
 352,68,MALE,05.06.2020,10.06.2020,Cardio Pulmonary Arrest; Severe Respiratory Depression,Breathing
 353,74,MALE,07.06.2020,10.06.2020,NA,Diabetes Mellitus
 354,69,MALE,07.06.2020,10.06.2020,Atypical Pneumonia,Chennai
 355,52,FEMALE,03.06.2020,10.06.2020,Severe Acute Respiratory Syndrome,Chennai
-356,NA,MALE,07.06.2020,11.06.2020,Refractory Hypoxia ; Severe Metabolic Acidosis,
+356,68,MALE,07.06.2020,11.06.2020,Refractory Hypoxia ; Severe Metabolic Acidosis,
 358,70,MALE,31.05.2020,11.06.2020,Septic Shock ; Pneumonia,Government
 359,40,MALE,09.06.2020,10.06.2020,Respiratory failure ; Acute Pneumonia ; Uncontrolled Diabetes Mellitus ; Systemic Hypertension,Chengalpattu Medical College Hospital Chengalpattu
 360,67,MALE,07.06.2020,11.06.2020,Cardiopulmonary Arrest ; COVID Pneumonia ; Respiratory Failure ; Coronary Artery Disease ; S ; P CABG,Rajiv Gandhi Government General Hospital Chennai
@@ -330,10 +330,10 @@ N0.150,32,MALE,28.05.2020,28.05.2020,Cardiopulmonary Arrest ; COVID19 Pneumonia 
 370,73,MALE,20.05.2020,28.05.2020,Pneumonia ; Multi Organ Dysfunction ; Septic Shock,
 371,69,MALE,22.05.2020,31.05.2020,Multi Organ Dysfunction ; Septic Shock,Chennai Complaints
 372,NA,FEMALE,24.05.2020,02.06.2020,NA,Chennai
-373,NA,FEMALE,25.05.2020,03.06.2020,Cardio Pulmonary Arrest and Uncontrolled DM,
+373,79,FEMALE,25.05.2020,03.06.2020,Cardio Pulmonary Arrest and Uncontrolled DM,
 374,77,MALE,05.05.2020,05.06.2020,COVID Pneumonia ; Cardio Pulmonary Arrest,Chennai
 375,74,MALE,30.05.2020,NA,NA,Chennai
-376,NA,MALE,11.06.2020,11.06.2020,Pneumonia and Cardio Pulmonary Arrest,
+376,68,MALE,11.06.2020,11.06.2020,Pneumonia and Cardio Pulmonary Arrest,
 377,68,FEMALE,10.06.2020,NA,Congestive Cardiac Failure,Chennai
 378,75,MALE,09.06.2020,11.06.2020,Pneumonia and Cardio Pulmonary Arrest,
 379,45,FEMALE,03.06.2020,11.06.2020,Pneumonia and Uncontrolled DM,
@@ -355,23 +355,23 @@ N0.150,32,MALE,28.05.2020,28.05.2020,Cardiopulmonary Arrest ; COVID19 Pneumonia 
 395,72,FEMALE,11.06.2020,13.06.2020,Cardiopulmonary Arrest ; Acute Respiratory Distress Syndrome ; COVID Positive ; Respiratory Failure ; Old Cerebro Vascular Accident,RGGGH Chennai
 396,70,MALE,12.06.2020,12.06.2020,Cardiopulmonary Arrest ; COVID Pneumonia ; Respiratory Failure ; Type 2 Diabetes Mellitus ; Systemic Hypertension ; Coronary Artery Disease ; Chronic Kidney Disease,RGGGH Chennai
 397,61,MALE,10.06.2020,12.06.2020,Cardiopulmonary Arrest ; COVID Positive ; Respiratory Pneumonia ; Diabetes Mellitus,RGGGH Chennai
-398,NA,MALE,13.06.20,13.06.2020,ARDS and Acute Respiratory Failure,
-399,NA,MALE,09.06.2020,13.06.2020,ARDS with Pneumonia,Chennai
+398,47,MALE,13.06.20,13.06.2020,ARDS and Acute Respiratory Failure,
+399,73,MALE,09.06.2020,13.06.2020,ARDS with Pneumonia,Chennai
 400,50,MALE,19.05.2020,05.06.2020,Multi Organ Dysfunction Syndrome and Pneumonia,Chennai
 401,58,MALE,30.05.2020,11.06.2020,Sepsis with Septic Shock,Chennai
 402,70,MALE,26.05.2020,12.06.2020,Acute Respiratory Distress Syndrome and Pneumonia,Chennai
 403,76,MALE,20.05.2020,12.06.2020,Multi Organ Failure and Septic Shock,Chennai
 404,82,MALE,08.06.2020,12.06.2020,Severe ARDS and Pneumonia,Chennai
-405,NA,MALE,10.06.2020,12.06.2020,Cardiac Arrest,Private Chennai
+405,45,MALE,10.06.2020,12.06.2020,Cardiac Arrest,Private Chennai
 406,77,MALE,05.06.2020,12.06.2020,Type I Respiratory Failure,Chennai
-407,NA,MALE,27.05.2020,12.06.2020,Multi Organ Failure and Cardio Respiratory Arrest,Chennai
-408,NA,FEMALE,10.06.2020,12.06.2020,Severe ARDS and Respiratory Failure,
+407,60,MALE,27.05.2020,12.06.2020,Multi Organ Failure and Cardio Respiratory Arrest,Chennai
+408,73,FEMALE,10.06.2020,12.06.2020,Severe ARDS and Respiratory Failure,
 409,73,FEMALE,11.06.2020,13.06.2020,NA,Chennai
-410,NA,MALE,02.06.2020,13.06.2020,Type I Respiratory Failure; Sepsis ; Shock,Chennai
+410,77,MALE,02.06.2020,13.06.2020,Type I Respiratory Failure; Sepsis ; Shock,Chennai
 411,70,FEMALE,01.06.2020,13.06.2020,Type I Respiratory Failure,Chennai
-412,NA,FEMALE,04.06.2020,13.06.2020,Type I Respiratory Failure,Chennai
+412,57,FEMALE,04.06.2020,13.06.2020,Type I Respiratory Failure,Chennai
 413,70,MALE,12.06.2020,13.06.2020,Cardiogenic Shock,Chennai
-414,NA,MALE,04.06.2020,12.06.2020,Cardio Pulmonary Arrest and Pneumonia,
+414,67,MALE,04.06.2020,12.06.2020,Cardio Pulmonary Arrest and Pneumonia,
 415,69,FEMALE,12.06.2020,12.06.2020,Pneumonia and SARI,Government
 416,77,FEMALE,06.06.2020,11.06.2020,Septic shock ; Urosepsis ; COVID Positive,Chengalpattu Medical College Hospital Chengalpattu
 417,55,MALE,07.06.2020,11.06.2020,Respiratory Failure ; Acute Pneumonia ; COVID Positive,Chengalpattu Medical College Hospital Chengalpattu
@@ -397,11 +397,11 @@ N0.150,32,MALE,28.05.2020,28.05.2020,Cardiopulmonary Arrest ; COVID19 Pneumonia 
 437,41,MALE,05.06.2020,14.06.2020,Respiratory Failure,
 438,69,MALE,07.06.2020. 05.59,15.06.2020,Respiratory Failure,
 439,54,MALE,30.05.2020,13.06.2020,COVID Pneumonia ; ARDS,Chennai
-440,NA,MALE,06.06.2020. 07.43,13.06.2020,Severe Acute Respiratory                       Distress Syndrome ; Acute Kidney Injury,
+440,62,MALE,06.06.2020. 07.43,13.06.2020,Severe Acute Respiratory                       Distress Syndrome ; Acute Kidney Injury,
 441,70,MALE,06.06.2020,14.06.2020,Respiratory Failure ; Multi Organ Dysfunction Syndrome,
 442,79,FEMALE,06.06.2020. 04.12,14.06.2020,Severe Acute Respiratory Distress Syndrome,
 443,67,FEMALE,31.05.2020. 08.51,14.06.2020,Cardiorespiratory Arrest ; Septic Shock ; COVID Pneumonia ; ARDS,
-444,NA,MALE,09.06.2020. 11.35,15.06.2020,Respiratory Failure,
+444,73,MALE,09.06.2020. 11.35,15.06.2020,Respiratory Failure,
 445,57,FEMALE,05.06.2020. 11.08,15.06.2020,Respiratory Failure,
 446,66,FEMALE,07.06.2020,15.06.2020,Respiratory Failure,
 447,68,MALE,11.05.2020,15.06.2020,Cardiorespiratory Arrest ; Septic Shock ; Pneumonia,Chennai
@@ -584,11 +584,11 @@ N0.150,32,MALE,28.05.2020,28.05.2020,Cardiopulmonary Arrest ; COVID19 Pneumonia 
 624,70,MALE,10.06.2020,NA,Viral Pneumonia; Respiratory Failure ; COVID-19 Positive ; Type II Diabetes Mellitus ; Systemic Hypertension,Thiruvannamalai Medical College Hospital Thiruvannamalai
 625,69,MALE,26.05.2020,31.05.2020,NA,Government Stanley Hospital Chennai
 626,47,MALE,05.06.2020. 08.48,NA,Type -II Respiratory Failure and ARDS,
-627,NA,MALE,03.06.2020. 06.50,17.06.2020,NA,
-628,NA,FEMALE,28.05.2020.8.22,NA,COVID pneumonia,
+627,54,MALE,03.06.2020. 06.50,17.06.2020,NA,
+628,48,FEMALE,28.05.2020.8.22,NA,COVID pneumonia,
 629,74,MALE,12.06.2020,NA,NA,
-630,NA,MALE,10.06.2020,17.06.2020,MODS & Cardio Respiratory Syndrome,Chennai
-631,NA,FEMALE,09.6.2020,17.06.2020,NA,
+630,72,MALE,10.06.2020,17.06.2020,MODS & Cardio Respiratory Syndrome,Chennai
+631,69,FEMALE,09.6.2020,17.06.2020,NA,
 632,55,MALE,17.06.2020,17.6.2020,NA,
 633,67,MALE,08.06.2020,NA,Viral Pneumonia;Cardio Pulmonary Arrest;MODS,Breathing Sore Throat
 634,57,MALE,10.6.2020 10.32,18.6.2020,COVID Pneumonia; Septic Shock ; Multi Organ Dysfunction Syndrome,Chennai
@@ -597,7 +597,7 @@ N0.150,32,MALE,28.05.2020,28.05.2020,Cardiopulmonary Arrest ; COVID19 Pneumonia 
 637,61,MALE,07.06.2020,18.06.2020,ARDS ; Septic Shock,Breathing
 638,80,FEMALE,NA,18.06.2020,Cardio Pulmonary Arrest ; COPD ; COVID-19,
 639,84,MALE,13.06.2020. 07.32,17.06.2020,Acute Respiratory failure ; AKI ; Metabolic Acidosis ; COVID-19 Pneumonia,Chennai
-640,NA,FEMALE,10.06.2020,18.06.2020,NA,
+640,47,FEMALE,10.06.2020,18.06.2020,NA,
 641,66,MALE,08.06.2020. 11.08,18.06.2020,ARDS ; Acute Pulmonary Edema,Government DMS
 643,57,MALE,08.06.2020,08.06.2020,NA,Raja Muthaiah Medical College Hospital Chidambaram
 644,62,MALE,18.06.2020,18.06.2020,Bronchopneumonia ; Respiratory Failure ; COVID- 19 Positive,Government Stanley Hospital Chennai
@@ -623,14 +623,14 @@ N0.150,32,MALE,28.05.2020,28.05.2020,Cardiopulmonary Arrest ; COVID19 Pneumonia 
 664,88,FEMALE,15.6.2020,16.06.2020,Respiratory Failure ; Diabetes Mellitus ; SHT ; COVID Positive,Government Rajaji Hospital Madurai
 665,78,MALE,16.06.2020,17.06.2020,Respiratory Failure ; O,Government Rajaji Hospital Madurai
 666,85,MALE,15.06.2020,18.06.2020,Respiratory Failure ; Type II Diabetes Mellitus ; Systemic Hypertension ; Scoliosis ; Traumatic paralysis ; COVID Positive,Government Rajaji Hospital Madurai
-667,NA,MALE,01.06.2020,18.06.2020,Multi Organ Failure ; COVID-19,
-668,NA,FEMALE,17.06.2020,18.06.2020,Cardio Respiratory Arrest ; COVID Pneumonia ;MODS,
+667,61,MALE,01.06.2020,18.06.2020,Multi Organ Failure ; COVID-19,
+668,78,FEMALE,17.06.2020,18.06.2020,Cardio Respiratory Arrest ; COVID Pneumonia ;MODS,
 669,65,MALE,04.06.2020,19.06.2020,Respiratory failure ; Septic Shock ; Multi Organ Failure,
-670,NA,MALE,16.06.2020,19.06.2020,Cardio Pulmonary arrest ; Respiratory Distress,
-671,NA,MALE,08.06.2020,19.06.2020,severe ARDS ; COVID Pneumonia,Breathing
-672,NA,MALE,13.06.2020,19.06.2020,Acute Respiratory Distress Syndrome,
-673,NA,MALE,13.06.2020,19.06.2020,Type I Respiratory Failure ; COVID -19,
-674,NA,MALE,16.06.2020,19.06.2020,Sudden Cardiac Arrest ; COVID-19,
+670,84,MALE,16.06.2020,19.06.2020,Cardio Pulmonary arrest ; Respiratory Distress,
+671,69,MALE,08.06.2020,19.06.2020,severe ARDS ; COVID Pneumonia,Breathing
+672,81,MALE,13.06.2020,19.06.2020,Acute Respiratory Distress Syndrome,
+673,45,MALE,13.06.2020,19.06.2020,Type I Respiratory Failure ; COVID -19,
+674,64,MALE,16.06.2020,19.06.2020,Sudden Cardiac Arrest ; COVID-19,
 675,65,MALE,13.06.2020,19.06.2020,Acute Coronary syndrome;Pneumonia,
 676,56,MALE,11.06.2020,19.06.2020,Acute Cerebro Vascular Accident ; MODS ; Pneumonia,
 677,52,MALE,18.06.2020,20.06.2020,Type I Respiratory Failure; COVID -19,
@@ -662,7 +662,7 @@ N0.150,32,MALE,28.05.2020,28.05.2020,Cardiopulmonary Arrest ; COVID19 Pneumonia 
 703,72,MALE,18.06.2020,19.06.2020,Cardiopulmonary Arrest ; COVID Pneumonia ; Type II Diabetes Mellitus ; SHTN,Rajiv Gandhi Government General Hospital Chennai
 704,72,MALE,16.06.2020,19.06.2020,Cardiopulmonary Arrest ; COVID Pneumonia ; Respiratory Failure ; SHTN ; CAD,Rajiv Gandhi Government General Hospital Chennai
 705,53,MALE,07.06.2020,18.06.20,Septic Shock;Pneumonia,Hospital Chennai
-706,NA,FEMALE,13.06.2020,18.06.2020,Myosarcoma thigh ; COVID Pneumonia,Hospital Chennai
+706,55,FEMALE,13.06.2020,18.06.2020,Myosarcoma thigh ; COVID Pneumonia,Hospital Chennai
 707,55,MALE,17.06.2020,19.06.2020,COVID Pneumonia,Hospital
 708,86,MALE,10.06.2020,19.06.2020,NA,Chennai
 709,67,MALE,30.05.2020,20.06.2020,ARDS ; COVID-19,
@@ -670,7 +670,7 @@ N0.150,32,MALE,28.05.2020,28.05.2020,Cardiopulmonary Arrest ; COVID19 Pneumonia 
 712,75,FEMALE,17.06.2020,19.06.2020,ARDS ; Ischemic Heart Disease ; Complete Heart Block ; COVID-19,Chennai
 713,60,MALE,06.06.20,20.06.2020,Severe ARDS ; Pneumonia,
 714,49,FEMALE,31.05.2020,20.06.2020,ARDS ; Septic Shock ; MODS ; COVID- 19,Chennai
-715,NA,FEMALE,16.06.2020,20.06.2020,Septic Shock ; COVID-19,Chennai
+715,60,FEMALE,16.06.2020,20.06.2020,Septic Shock ; COVID-19,Chennai
 716,53,MALE,15.06.2020,20.06.2020,ARDS ; Bilateral Viral Pneumonia ;COVID Pneumonia,Chennai
 717,65,MALE,17.06.2020,20.06.2020,COVID 19 ; Septic Shock ; CKD,
 718,74,MALE,02.06.2020,20.06.2020,Acute Respiratory Dysfunction Syndrome ; Sepsis ; MODS,
@@ -753,7 +753,7 @@ N0.150,32,MALE,28.05.2020,28.05.2020,Cardiopulmonary Arrest ; COVID19 Pneumonia 
 798,82,FEMALE,13.06.2020,21.06.2020,NA,Chennai
 799,70,MALE,22.06.2020,23.06.2020,NA,
 800,90,MALE,17.06.2020,21.06.2020,NA,
-801,NA,MALE,01.06.2020,21.06.2020,ARDS ; Sepsis ; MODS,
+801,76,MALE,01.06.2020,21.06.2020,ARDS ; Sepsis ; MODS,
 802,69,MALE,16.06.2020,21.06.2020,Severe COVID-19 Pneumonia ; ARDS ; Type-I Respiratory Failure,Chennai
 803,75,MALE,04.06.2020,21.06.2020,Severe COVID-19 pneumonia,
 804,58,MALE,19.06.2020,22.06.2020,NA,
@@ -897,7 +897,7 @@ NA,50,FEMALE,21.06.2020,24.06.2020,NA,Chennai
 942,62,MALE,23.06.2020,23.06.2020,ARDS ; Severe COVID-19 Pneumonia ; Metabolic Encephalopathy,
 943,65,MALE,22.06.2020,26.06.2020,NA,Chennai
 944,84,MALE,23.06.2020,25.06.2020,Hypoxemic Respiratory Failure,Chennai
-945,NA,FEMALE,20.06.2020,24.06.2020,NA,Chennai
+945,79,FEMALE,20.06.2020,24.06.2020,NA,Chennai
 946,85,MALE,24.06.2020,25.06.2020,NA,Chennai
 947,65,MALE,22.06.2020,23.06.2020,NA,Chennai
 948,73,MALE,20.06.2020,25.06.2020,NA,Chennai
@@ -920,12 +920,12 @@ NA,50,FEMALE,21.06.2020,24.06.2020,NA,Chennai
 965,40,MALE,24.06.2020,26.06.2020,Viral Pneumonitis,
 966,81,MALE,19.06.2020,26.06.2020,severe COVID pneumonia ; multi organ dysfunction,
 967,69,MALE,22.06.2020,26.06.2020,Septic shock ; Multi organ dysfunction ; Acute kidney injury,
-969,NA,MALE,18.06.2020,26.06.2020,sudden cardiac arrest ; Bi-lateral pneumonitis,Chennai
+969,83,MALE,18.06.2020,26.06.2020,sudden cardiac arrest ; Bi-lateral pneumonitis,Chennai
 970,52,MALE,15.06.2020,26.06.2020,NA,
-971,NA,MALE,17.06.2020,26.06.2020,Severe COVID-19 Pneumonia ; Adeno Carcinoma Colon,
+971,78,MALE,17.06.2020,26.06.2020,Severe COVID-19 Pneumonia ; Adeno Carcinoma Colon,
 972,46,FEMALE,25.06.2020,26.06.2020,Severe Acute Respiratory Distress Syndrome ; SIRS ; Septic Shock,
 973,72,FEMALE,24.06.2020,26.06.2020,Acute Respiratory Distress Syndrome; Bilateral Viral Pneumonitis,Chennai
-974,NA,MALE,15.06.2020,26.06.2020,MODS ; Sepsis ; ARDS,
+974,82,MALE,15.06.2020,26.06.2020,MODS ; Sepsis ; ARDS,
 975,58,FEMALE,17.06.2020,NA,NA,
 976,65,MALE,19.06.2020,26.06.2020,Severe Acute Respiratory Syndrome,Hospital Chennai
 977,56,MALE,26.06.2020,26.06.2020,Cardio Pulmonary Arrest,Chennai
@@ -978,12 +978,12 @@ NA,50,FEMALE,21.06.2020,24.06.2020,NA,Chennai
 1024,62,MALE,23.06.2020,24.06.2020,Acute Respiratory Distress Syndrome ; COVID positive pneumonia ; Hypertension ; Diabetes Mellitus,Government Rajaji Hospital Madurai
 1025,60,FEMALE,24.06.2020,26.06.2020,Acute Respiratory Distress Syndrome ; Acute Respiratory Failure ; COVID pneumonia ; Diabetes Mellitus ; Systemic Hypertension ; COVID positive,Government Medical College Hospital Omandurar
 1026,29,MALE,16.06.2020,28.06.2020,Type -1 Respiratory Failure,
-1027,NA,MALE,19.06.2020,27.06.2020,NA,
+1027,58,MALE,19.06.2020,27.06.2020,NA,
 1028,61,MALE,16.06.2020,27.06.2020,Severe Acute Respiratory Distress Syndrome ; Sepsis,Chennai
-1029,NA,MALE,23.06.2020,28.06.2020,Severe Acute Respiratory Distress Syndrome ; Multi Organ Dysfunction Syndrome,
-1030,NA,FEMALE,24.06.2020,26.06.2020,Severe Acute Respiratory Distress Syndrome,
+1029,59,MALE,23.06.2020,28.06.2020,Severe Acute Respiratory Distress Syndrome ; Multi Organ Dysfunction Syndrome,
+1030,83,FEMALE,24.06.2020,26.06.2020,Severe Acute Respiratory Distress Syndrome,
 1031,59,MALE,20.06.2020,NA,Severe Acute Respiratory Distress Syndrome,Chennai
-1032,NA,MALE,23.06.2020,28.06.2020,Severe Acute Respiratory Distress Syndrome,
+1032,64,MALE,23.06.2020,28.06.2020,Severe Acute Respiratory Distress Syndrome,
 1033,79,MALE,20.06.2020,27.06.2020,NA,Chennai
 1034,84,MALE,26.06.2020,27.06.2020,COVID Pneumonia ,Chennai
 1035,17,MALE,26.06.2020,27.06.2020,NA,
@@ -1373,7 +1373,7 @@ NO,90,MALE,22.06.2020,29.06.2020,Cardiac Arrest ; COVID-19 Pneumonia,
 1433,83,MALE,30.6.2020,03.07.2020,NA,Cough
 1434,67,FEMALE,29.06.2020,03.07.2020,NA,
 1435,72,MALE,27.06.2020,03.07.2020,NA,
-1436,NA,MALE,22.06.2020,03.07.2020,ARDS ; COVID-19 Pneumonia,
+1436,72,MALE,22.06.2020,03.07.2020,ARDS ; COVID-19 Pneumonia,
 1437,60,MALE,23.06.2020,03.07.2020,NA,
 1438,60,MALE,30.6.2020,02.07.2020,NA,
 1439,52,MALE,30.06.2020,02.07.2020,ARDS ; COVID-19 Pneumonia,
@@ -1943,31 +1943,31 @@ NO,90,MALE,22.06.2020,29.06.2020,Cardiac Arrest ; COVID-19 Pneumonia,
 2009,80,FEMALE,03.07.2020,12.07.2020,Respiratory Failure ; COVID 19 Pneumonia,Rajiv Gandhi Govt
 2010,70,MALE,12.07.2020,12.07.2020,Acute Pulmonary Odema ; Chronic Kidney Disease,Coimbatore Medical College Hospital Coimbatore
 2011,53,MALE,01.07.2020,12.07.2020,Acute Respiratory Distress Syndrome ; Acute Respiratory Failure ; COVID Pneumonia ; Systemic Hypertension ; COVID Positive,Govt Omandurar Medical College Hospital Omandurar
-2012,NA,MALE,08.07.2020,12.07.2020,Type 1 Respiratory Failure ; Viral Pneumonia,
-2013,NA,MALE,28.06.2020,12.07.2020,Type 1 Respiratory Failure ; COVID-19 Pneumonia,
+2012,47,MALE,08.07.2020,12.07.2020,Type 1 Respiratory Failure ; Viral Pneumonia,
+2013,53,MALE,28.06.2020,12.07.2020,Type 1 Respiratory Failure ; COVID-19 Pneumonia,
 2014,83,MALE,07.07.2020,12.07.2020,NA,Ramanathapuram
 2015,83,FEMALE,06.07.2020,12.07.2020,Cardio Respiratory Arrest ; Respiratory Failure ;COVID-19 Pneumonitis,Complaints
 2016,51,MALE,21.06.2020,13.07.2020,Septic Shock ; MODS; COVID-19 Pneumonia,Complaints
 2017,37,MALE,06.07.2020,13.07.2020,Septic Shock ; ARDS; COVID-19,Complaints
-2018,NA,MALE,07.07.2020,13.07.2020,NA,Complaints
+2018,56,MALE,07.07.2020,13.07.2020,NA,Complaints
 2019,79,MALE,08.07.2020,12.07.2020,Respiratory Failure ; COVID- 19 Pneumonia,
-2020,NA,MALE,25.06.2020,12.07.2020,Septic Shock ; MODS ; ARDS ;COVID-19,Cough
+2020,55,MALE,25.06.2020,12.07.2020,Septic Shock ; MODS ; ARDS ;COVID-19,Cough
 2021,80,MALE,05.07.2020,12.07.2020,ARDS ; Bilateral Viral Pneumonia ; COVID-19,
-2022,NA,FEMALE,24.06.2020,11.7.2020,Chronic Kidney Diseases ; Vasculitis ; COVID-19,Complaints
+2022,75,FEMALE,24.06.2020,11.7.2020,Chronic Kidney Diseases ; Vasculitis ; COVID-19,Complaints
 2023,53,MALE,10.07.2020,11.7.2020,Viral pneumonia ; ARDS ; COVID-19,Madurai
-2024,NA,MALE,03.7.2020,13.07.2020,Bilateral pneumonitis; Cardio Pulmonary Arrest ;COVID-19,Complaints
+2024,73,MALE,03.7.2020,13.07.2020,Bilateral pneumonitis; Cardio Pulmonary Arrest ;COVID-19,Complaints
 2025,69,FEMALE,10.07.2020,13.07.2020,Type -1 Respiratory Failure ; COVID-19,Complaints
 2026,62,MALE,05.07.2020,13.07.2020,NA,Complaints
 2027,91,MALE,08.07.2020,13.07.2020,Viral Pneumonitis ; COVID-19 Pneumonia,Complaints
 2028,69,MALE,12.07.2020,12.07.2020,NA,
 2029,NA,MALE,03.07.2020,11.07.2020,NA,ICF Hospital
-2030,NA,MALE,06.7.2020               ,at 12.07.2020,NA,Breathing
+2030,67,MALE,06.7.2020               ,at 12.07.2020,NA,Breathing
 2031,65,MALE,05.07.2020,13.07.2020,ARDS ; COVID-19 Pneumonia ; Cardio Pulmonary Arrest,
 2032,56,MALE,01.07.2020,11.7.2020,Cardio Pulmonary Arrest;COVID-19,
 2052,65,FEMALE,08.07.2020,12.07.2020,ARDS ; COVID-19 Pneumonia,
 2053,70,MALE,10.7.2020,12.07.2020,NA,
-2054,NA,MALE,11.07.2020,12.07.2020,Viral Pneumonitis ; COVID-19,
-2055,NA,FEMALE,05.07.2020,12.07.2020,Respiratory Failure ; COVID- 19,
+2054,53,MALE,11.07.2020,12.07.2020,Viral Pneumonitis ; COVID-19,
+2055,52,FEMALE,05.07.2020,12.07.2020,Respiratory Failure ; COVID- 19,
 2056,65,MALE,01.07.2020,14.7.2020,Type 1 Respiratory Failure ; COVID-19 Pneumonia,Breathing
 2057,73,FEMALE,30.06.2020,13.07.2020,Severe Pneumonia ; Type 2 Diabetes Mellitus ; Hypothyroidism,Government Medical College ESI Hospital
 2058,53,MALE,07.07.2020,12.07.2020,Acute Respiratory Distress Syndrome ; COVID Positive Pneumonia,Govt Rajaji Hospital Madurai
@@ -2010,23 +2010,23 @@ NO,90,MALE,22.06.2020,29.06.2020,Cardiac Arrest ; COVID-19 Pneumonia,
 2095,55,MALE,26.06.2020,13.07.2020,Acute Respiratory Distress Syndrome ; Acute Respiratory Failure ; COVID Pneumonia ; Diabetes Mellitus ; Systemic Hypertension ; COVID Positive,Govt Omandurar Medical College Hospital
 2096,80,MALE,06.07.2020,13.07.2020,Acute Respiratory Distress Syndrome ; Acute Respiratory Failure ; COVID Pneumonia ; Diabetes Mellitus ; Systemic Hypertension ; Diabetic Nephropathy ; COVID Positive,Govt Omandurar Medical College Hospital
 2097,51,MALE,11.07.2020,13.07.2020,Cardio Pulmonary Arrest ; Metabolic Seizures ; Chronic Kidney Disease ; Post Renal Transplant (Right side) ; COVID – 19 Positive ; Type 2 Diabetes Mellitus,Govt Omandurar Medical College Hospital
-2100,NA,MALE,07.07.2020,14.07.2020,NA,Hospital
-2101,NA,MALE,12.07.2020,14.07.2020,NA,Hospital Madurai
-2102,NA,MALE,13.07.2020,15.07.2020,NA,Hospital Complaints
-2103,NA,MALE,14.07.2020,14.07.2020,NA,Medical College Hospital
+2100,58,MALE,07.07.2020,14.07.2020,NA,Hospital
+2101,94,MALE,12.07.2020,14.07.2020,NA,Hospital Madurai
+2102,58,MALE,13.07.2020,15.07.2020,NA,Hospital Complaints
+2103,82,MALE,14.07.2020,14.07.2020,NA,Medical College Hospital
 2104,79,MALE,04.07.2020,13.07.2020,NA,Hospital
-2105,NA,MALE,6.7.2020,14.07.2020,NA,Hospital
+2105,76,MALE,6.7.2020,14.07.2020,NA,Hospital
 2106,53,FEMALE,11.07.2020,14.07.2020,NA,Hospital Madurai
 2107,48,MALE,02.07.2020,13.07.2020,NA,
 2108,52,MALE,13.07.2020,13.07.2020,NA,Hospital Chennai
 2109,70,MALE,09.07.2020,14.07.2020,NA,
-2110,NA,MALE,09.07.2020,14.7.2020,NA,Hospital
+2110,86,MALE,09.07.2020,14.7.2020,NA,Hospital
 2111,58,MALE,21.06.2020,14.07.2020,NA,Hospital
 2112,49,MALE,29.06.2020,14.07.2020,NA,
 2113,60,MALE,21.06.2020,14.07.2020,NA,
-2114,NA,FEMALE,27.06.2020,14.07.2020,NA,
+2114,79,FEMALE,27.06.2020,14.07.2020,NA,
 2115,70,FEMALE,14.07.2020,14.07.2020,NA,
-2116,NA,MALE,13.07.2020,14.07.2020,NA,
+2116,88,MALE,13.07.2020,14.07.2020,NA,
 2117,86,FEMALE,02.07.2020,14.07.2020,NA,
 2118,74,FEMALE,08.07.2020,13.07.2020,NA,
 2119,92,MALE,09.07.2020,13.07.2020,NA,
@@ -2079,32 +2079,32 @@ NO,90,MALE,22.06.2020,29.06.2020,Cardiac Arrest ; COVID-19 Pneumonia,
 2166,55,FEMALE,10.07.2020,13.07.2020,SHTN ; Diabetes Mellitus ; COVID Positive Pneumonia ; Septic shock ; Aspiration Pneumonia ; Stroke,Government Stanley Medical College Hospital Chennai
 2167,65,MALE,14.07.2020,14.07.2020,Acute Respiratory Distress Syndrome ; Acute myocardial infarction ; COVID 19 Positive,Government Sivagangai Medical College Hospital Sivagangai
 2168,52,MALE,04.07.2020,15.07.2020,ARDS ; Septic Shock ;COVID-19 Pneumonia,
-2169,NA,MALE,6.07.2020,14.07.2020,Viral Pneumonia ; COVID-19,Madurai
-2170,NA,MALE,30.06.2020,14.07.2020,NA,
-2171,NA,MALE,27.6.2020,14.07.2020,Cardio Respiratory Arrest,
+2169,75,MALE,6.07.2020,14.07.2020,Viral Pneumonia ; COVID-19,Madurai
+2170,70,MALE,30.06.2020,14.07.2020,NA,
+2171,64,MALE,27.6.2020,14.07.2020,Cardio Respiratory Arrest,
 2172,87,MALE,11.07.2020,14.07.2020,NA,
 2173,51,MALE,14.07.2020,15.07.2020,NA,
 2174,74,MALE,12.07.2020,15.07.2020,Acute Respiratory Failure ; COVID-19,
 2175,56,MALE,28.6.2020,15.7.2020,Type I Respiratory Failure ; Viral Pneumonia ; COVID-19,
 2176,66,FEMALE,01.07.2020,15.07.2020,Cardiac Arrest ; Sepsis ; Empyema lungs stage 4; COVID-19,
 2177,61,FEMALE,10.07.2020,15.07.2020,NA,
-2178,NA,MALE,03.07.2020,14.07.2020,Hypoxic arrest ; COVID-19 Pneumonia,
-2179,NA,MALE,14.07.2020,14.07.2020,Cardio Pulmonary Arrest,College Hospital
-2180,NA,MALE,05.07.2020,14.07.2020,NA,
-2181,NA,MALE,08.07.2020,15.07.2020,NA,Medical College Hospital
+2178,53,MALE,03.07.2020,14.07.2020,Hypoxic arrest ; COVID-19 Pneumonia,
+2179,48,MALE,14.07.2020,14.07.2020,Cardio Pulmonary Arrest,College Hospital
+2180,58,MALE,05.07.2020,14.07.2020,NA,
+2181,52,MALE,08.07.2020,15.07.2020,NA,Medical College Hospital
 2182,72,MALE,29.06.2020,15.07.2020,SARS COVID -19,
-2183,NA,MALE,27.06.2020,15.07.2020,NA,
+2183,92,MALE,27.06.2020,15.07.2020,NA,
 2184,82,FEMALE,02.07.2020,15.07.2020,ARDS ;COVID-19 Pneumonitis,Madurai Complaints
-2185,NA,MALE,29.06.2020,15.07.2020,Sudden Cardiac Arrest;COVID-19,Complaints
-2186,NA,FEMALE,14.07.2020,15.07.2020,ARDS ;COVID-19,Complaints
-2187,NA,MALE,06.07.2020,15.07.2020,Type -1 Respiratory Failure ; COVID-19,Complaints
+2185,73,MALE,29.06.2020,15.07.2020,Sudden Cardiac Arrest;COVID-19,Complaints
+2186,72,FEMALE,14.07.2020,15.07.2020,ARDS ;COVID-19,Complaints
+2187,64,MALE,06.07.2020,15.07.2020,Type -1 Respiratory Failure ; COVID-19,Complaints
 2188,51,FEMALE,01.07.2020 08.41,15.07.2020,ARDS ; Bilateral Viral Pneumonia ; COVID-19,Complaints
 2189,54,MALE,10.07.2020,15.07.2020,NA,Hospital
 2190,75,MALE,10.07.2020,15.07.2020,NA,Hospital
 2191,74,FEMALE,04.07.2020,15.07.2020,Cardio Respiratory Arrest ; COVID-19 Pneumonia,Complaints
-2192,NA,MALE,11.07.2020,15.07.2020,NA,Complaints
+2192,56,MALE,11.07.2020,15.07.2020,NA,Complaints
 2193,60,MALE,15.07.2020,15.07.2020,NA,
-2194,NA,MALE,12.07.2020,15.07.2020,Respiratory Failure,
+2194,70,MALE,12.07.2020,15.07.2020,Respiratory Failure,
 2196,80,FEMALE,04.07.2020,14.07.2020,Cardio Respiratory Arrest ;COVID-19,Other Government Institutions Railway Hospitals
 2197,50,MALE,13.07.2020,15.07.2020,NA,Government Medical College ESI Hospital
 2198,42,MALE,10.07.2020,15.07.2020,Respiratory Failure ; COVID 19 Pneumonia ; AKI,RGGGH Chennai
@@ -2198,32 +2198,32 @@ NO,90,MALE,22.06.2020,29.06.2020,Cardiac Arrest ; COVID-19 Pneumonia,
 2286,59,MALE,09.07.2020,16.07.2020,Acute Respiratory Distress Syndrome ; COVID 19 Pneumonia ; Old Cerebrovascular Accident ; Systemic Hypertension,Govt Medical College ESI Hospital
 2287,84,FEMALE,09.07.2020,16.07.2020,ARDS ; Severe COVID-19 Pneumonia,
 2288,NA,FEMALE,12.07.2020,16.07.2020,ARDS ; COVID-19 Pneumonia,Breathing
-2289,NA,MALE,16.06.2020,16.07.2020,Respiratory Failure ; COVID-19 Pneumonia,Government DMS
-2290,NA,MALE,11.07.2020,16.07.2020,Respiratory Failure ; ARDS ; Viral Pneumonia,
-2291,NA,MALE,14.07.2020         ,15.07.2020,ARDS ; COVID-19,Breathing
-2292,NA,MALE,13.07.2020,14.07.2020,ARDS ; COVID-19,Breathing
-2293,NA,MALE,4.7.2020,16.07.2020,NA,
-2294,NA,FEMALE,14.07.2020,16.07.2020,AKI ; COVID-19 ; Type I Respiratory Failure,
+2289,57,MALE,16.06.2020,16.07.2020,Respiratory Failure ; COVID-19 Pneumonia,Government DMS
+2290,60,MALE,11.07.2020,16.07.2020,Respiratory Failure ; ARDS ; Viral Pneumonia,
+2291,75,MALE,14.07.2020         ,15.07.2020,ARDS ; COVID-19,Breathing
+2292,65,MALE,13.07.2020,14.07.2020,ARDS ; COVID-19,Breathing
+2293,54,MALE,4.7.2020,16.07.2020,NA,
+2294,66,FEMALE,14.07.2020,16.07.2020,AKI ; COVID-19 ; Type I Respiratory Failure,
 2295,62,MALE,03.07.2020,16.07.2020,NA,Medical College Hospital
-2296,NA,MALE,13.07.2020,16.07.2020,SARS ; COVID-19 ; Type I Respiratory Failure,
-2298,NA,MALE,08.7.2020,16.07.2020,ARDS ; COVID-19 Pneumonia,
-2299,NA,MALE,06.07.2020,16.07.2020,NA,
+2296,58,MALE,13.07.2020,16.07.2020,SARS ; COVID-19 ; Type I Respiratory Failure,
+2298,75,MALE,08.7.2020,16.07.2020,ARDS ; COVID-19 Pneumonia,
+2299,62,MALE,06.07.2020,16.07.2020,NA,
 2300,59,MALE,- 03.07.2020,16.07.2020,Severe COVID-19 Pneumonia ; CR Klebsiella Bacteremia ; Septic Shock,
 2301,51,MALE,20.6.2020,16.07.2020,Hemorrhage ; COVID-19,
-2302,NA,MALE,11.07.2020,16.07.2020,NA,
-2303,NA,MALE,04.07.2020,16.07.2020,NA,Complaints
-2304,NA,MALE,05.07.2020,16.7.2020,Viral Pneumonia;COVID-19,Madurai Complaints
-2305,NA,FEMALE,1.7.2020 6.01,16.07.2020,Acute Respiratory Failure;COVID-19 Pneumonia,Medical College Hospital
-2306,NA,FEMALE,10.07.2020,15.07.2020,ARDS ; COVID-19 Pneumonia,Medical College Hospital
-2307,NA,MALE,19.06.2020,15.07.2020,Acute Respiratory Failure;COVID-19,Complaints
-2308,NA,MALE,04.07.2020,15.07.2020,ARDS ; Bilateral Viral Pneumonia ;COVID-19,Medical College Hospital
-2309,NA,MALE,29.06.2020,15.07.2020,Severe Respiratory Distress ; COVID-19,Madurai Complaints
-2310,NA,FEMALE,11.07.2020,15.07.2020,Viral Pneumonia ; COVID-19,Madurai Complaints
-2311,NA,MALE,12.07.2020,15.07.2020,NA,Complaints
-2312,NA,MALE,14.07.2020,15.07.2020,Cardio Respiratory Arrest ; COVID-19,Complaints
-2313,NA,FEMALE,03.07.2020,NA,Cardiac Pulmonary Arrest ; COVID-19 Pneumonia,Madurai
-2314,NA,MALE,13.07.2020,13.07.2020,ARDS ; COVID-19,Medical College Hospital Vellore
-2315,NA,MALE,08.07.2020,13.07.2020,Cardiac Arrest ; COVID-19,Complaints
+2302,92,MALE,11.07.2020,16.07.2020,NA,
+2303,58,MALE,04.07.2020,16.07.2020,NA,Complaints
+2304,85,MALE,05.07.2020,16.7.2020,Viral Pneumonia;COVID-19,Madurai Complaints
+2305,40,FEMALE,1.7.2020 6.01,16.07.2020,Acute Respiratory Failure;COVID-19 Pneumonia,Medical College Hospital
+2306,86,FEMALE,10.07.2020,15.07.2020,ARDS ; COVID-19 Pneumonia,Medical College Hospital
+2307,58,MALE,19.06.2020,15.07.2020,Acute Respiratory Failure;COVID-19,Complaints
+2308,67,MALE,04.07.2020,15.07.2020,ARDS ; Bilateral Viral Pneumonia ;COVID-19,Medical College Hospital
+2309,57,MALE,29.06.2020,15.07.2020,Severe Respiratory Distress ; COVID-19,Madurai Complaints
+2310,42,FEMALE,11.07.2020,15.07.2020,Viral Pneumonia ; COVID-19,Madurai Complaints
+2311,82,MALE,12.07.2020,15.07.2020,NA,Complaints
+2312,65,MALE,14.07.2020,15.07.2020,Cardio Respiratory Arrest ; COVID-19,Complaints
+2313,68,FEMALE,03.07.2020,NA,Cardiac Pulmonary Arrest ; COVID-19 Pneumonia,Madurai
+2314,51,MALE,13.07.2020,13.07.2020,ARDS ; COVID-19,Medical College Hospital Vellore
+2315,84,MALE,08.07.2020,13.07.2020,Cardiac Arrest ; COVID-19,Complaints
 2316,60,MALE,16.07.2020,17.07.2020,NA,Govt Stanley Hospital Chennai
 2317,55,MALE,17.07.2020,17.07.2020,ARDS ; Respiratory Failure ; COVID Pneumonia,Karur Medical College Hospital
 2318,54,MALE,15.07.2020,17.07.2020,NA,Rajiv Gandhi Govt General Hospital Chennai
@@ -2312,34 +2312,34 @@ NO,90,MALE,22.06.2020,29.06.2020,Cardiac Arrest ; COVID-19 Pneumonia,
 2401,55,MALE,15.07.2020,16.07.2020,NA,Govt HQ Hospital Ramanathapuram
 2402,52,FEMALE,16.07.2020,16.07.2020,Acute Respiratory Distress Syndrome ; COVID-19 Pneumonia,Government Headquarters Hospital Ramanathapuram
 2403,69,FEMALE,10.07.2020,17.07.2020,Severe COVID Pneumonia ; Cardio Pulmonary Arrest       24*7 Control Room: 044-29510400; 044-29510500; 9444340496; 8754448477             District Control Room – 1077,Southern Railway HQ Hospital Perambur
-2404,NA,MALE,15.07.2020,18.07.2020,ARDS ; COVID-19,Medical College Hospital Vellore
-2405,NA,MALE,16.07.2020,18.07.2020,NA,Complaints
-2406,NA,MALE,06.07.2020,19.07.2020,NA,Complaints
+2404,82,MALE,15.07.2020,18.07.2020,ARDS ; COVID-19,Medical College Hospital Vellore
+2405,37,MALE,16.07.2020,18.07.2020,NA,Complaints
+2406,74,MALE,06.07.2020,19.07.2020,NA,Complaints
 2407,62,FEMALE,16.07.2020,18.07.2020,NA,Complaints
 2408,74,MALE,14.07.2020,18.07.2020,NA,Medical College Hospital
-2409,NA,MALE,08.07.2020,19.07.2020,Cardiac Arrest ; COVID-19,Complaints
+2409,82,MALE,08.07.2020,19.07.2020,Cardiac Arrest ; COVID-19,Complaints
 2410,92,MALE,05.07.2020,18.07.2020,Sudden Cardiac Arrest ; Bilateral Pneumonitis ; COVID-19,Hospital Complaints
-2411,NA,MALE,06.07.2020,19.07.2020,Cardio Respiratory Arrest ; COVID-19 Pneumonitis,Hospital Complaints
+2411,68,MALE,06.07.2020,19.07.2020,Cardio Respiratory Arrest ; COVID-19 Pneumonitis,Hospital Complaints
 2412,22,MALE,11.07.2020,19.07.2020,Acute Respiratory Failure ; COVID-19,Hospital Complaints
-2413,NA,FEMALE,17.07.2020,18.07.2020,Acute Pulmonary Edema;Septic Shock;COVID-19,Hospital Complaints Difficulty
-2414,NA,MALE,10.07.2020 10.25,18.07.2020,Viral Pneumonia ; ARDS ; COVID-19,Hospital Complaints
-2415,NA,MALE,08.07.2020,18.07.2020,Septic Shock with MODS;COVID-19,Hospital Complaints
-2416,NA,MALE,11.06.2020,18.07.2020,NA,Hospital Complaints
-2417,NA,FEMALE,17.07.2020,NA,NA,Medical College Hospital
-2418,NA,MALE,13.7.2020,NA,NA,Hospital Complaints
-2419,NA,FEMALE,11.07.2020,18.07.2020,Aspiration Pneumonia ; COVID- 19,Medical College Complaints
-2420,NA,MALE,18.7.2020,18.07.2020,Acute Respiratory Failure ; COVID-19 Pneumonia,Complaints
+2413,64,FEMALE,17.07.2020,18.07.2020,Acute Pulmonary Edema;Septic Shock;COVID-19,Hospital Complaints Difficulty
+2414,73,MALE,10.07.2020 10.25,18.07.2020,Viral Pneumonia ; ARDS ; COVID-19,Hospital Complaints
+2415,62,MALE,08.07.2020,18.07.2020,Septic Shock with MODS;COVID-19,Hospital Complaints
+2416,58,MALE,11.06.2020,18.07.2020,NA,Hospital Complaints
+2417,62,FEMALE,17.07.2020,NA,NA,Medical College Hospital
+2418,85,MALE,13.7.2020,NA,NA,Hospital Complaints
+2419,72,FEMALE,11.07.2020,18.07.2020,Aspiration Pneumonia ; COVID- 19,Medical College Complaints
+2420,62,MALE,18.7.2020,18.07.2020,Acute Respiratory Failure ; COVID-19 Pneumonia,Complaints
 2421,86,MALE,08.07.2020 1.00,18.07.2020,Respiratory Failure ; COVID-19 Pneumonia,
 2422,79,MALE,16.07.2020,17.07.2020,Viral Pneumonia ; COVID-19,Madurai
 2423,53,MALE,15.07.2020,18.07.2020,Acute Respiratory Distress Syndrome ; Type 1 Respiratory Failure; COVID-19 Pneumonia (Severe),Medical College Hospital Chennai
-2424,NA,MALE,30.06.2020,17.07.2020,NA,Madurai Complaints
-2425,NA,MALE,07.07.2020,18.07.2020,ARDS ; Sepsis ;COVID-19,Chennai Complaints
-2426,NA,MALE,11.07.2020,19.07.2020,Cardio Respiratory Arrest ; ARDS ; Cytokine Storm ; COVID-19,Chennai Complaints
-2427,NA,MALE,14.07.2020,18.07.2020,Viral Pneumonitis ; ARDS ; COVID-19,Breathing
-2428,NA,MALE,17.7.2020,19.07.2020,Cardio Respiratory Arrest;COVID- 19 Pneumonia,Breathing
-2429,NA,MALE,05.07.2020,08.07.2020,Acute Pulmonary Edema ; COVID-19,Breathing
+2424,72,MALE,30.06.2020,17.07.2020,NA,Madurai Complaints
+2425,61,MALE,07.07.2020,18.07.2020,ARDS ; Sepsis ;COVID-19,Chennai Complaints
+2426,38,MALE,11.07.2020,19.07.2020,Cardio Respiratory Arrest ; ARDS ; Cytokine Storm ; COVID-19,Chennai Complaints
+2427,84,MALE,14.07.2020,18.07.2020,Viral Pneumonitis ; ARDS ; COVID-19,Breathing
+2428,61,MALE,17.7.2020,19.07.2020,Cardio Respiratory Arrest;COVID- 19 Pneumonia,Breathing
+2429,52,MALE,05.07.2020,08.07.2020,Acute Pulmonary Edema ; COVID-19,Breathing
 2430,52,MALE,01.07.2020,18.07.2020,ARDS ; COVID-19 Pneumonia,Breathing
-2431,NA,FEMALE,22.06.2020,19.07.2020,Severe ARDS ; Respiratory Failure ;COVID-19 Pneumonia,Breathing
+2431,53,FEMALE,22.06.2020,19.07.2020,Severe ARDS ; Respiratory Failure ;COVID-19 Pneumonia,Breathing
 2432,79,FEMALE,17.07.2020,17.07.2020,Massive MI ; COVID-19 Pneumonia,Breathing Days
 2433,59,MALE,13.07.2020,18.07.2020,Acute Respiratory Distress Syndrome ; COVID 19 Pneumonia ; Systemic Hypertension,Government Medical College ESI Hospital
 2434,62,FEMALE,16.06.2020,17.07.2020,Respiratory Failure ; COVID 19 ; Viral Pneumonia,Chengalpattu Medical College Hospital
@@ -2403,8 +2403,8 @@ NO,90,MALE,22.06.2020,29.06.2020,Cardiac Arrest ; COVID-19 Pneumonia,
 2494,74,MALE,07.07.2020,19.07.2020,NA,Complaints
 2495,65,FEMALE,13.07.2020,19.07.2020,Acute Respiratory Distress syndrome;Viral Pneumonitis;Sepsis Septic Shock ; COVID-19 Pneumonia,Complaints
 2496,80,MALE,17.7.2020,18.07.2020,Acute Pancreatitis ; COVID-19 Pneumonia,Complaints
-2497,NA,MALE,17.07.2020,18.07.2020,Hypoxic Arrest ; COVID-19 Pneumonia ;Acute Type-2 Respiratory Failure,Vellore Complaints
-2498,NA,MALE,04.07.2020,18.07.2020                 ,Acute Respiratory Distress Syndrome ; Viral Pneumonia ; COVID-19 Pneumonia,Hospital Complaints
+2497,65,MALE,17.07.2020,18.07.2020,Hypoxic Arrest ; COVID-19 Pneumonia ;Acute Type-2 Respiratory Failure,Vellore Complaints
+2498,34,MALE,04.07.2020,18.07.2020                 ,Acute Respiratory Distress Syndrome ; Viral Pneumonia ; COVID-19 Pneumonia,Hospital Complaints
 2499,82,MALE,11.07.2020,18.07.2020,NA,Hospital Complaints
 2500,61,FEMALE,6.07.2020,18.07.2020,NA,Complaints
 2501,89,MALE,10.07.2020,18.07.2020,NA,Hospital Complaints
@@ -2544,13 +2544,13 @@ NO,90,MALE,22.06.2020,29.06.2020,Cardiac Arrest ; COVID-19 Pneumonia,
 3080,53,MALE,17.07.2020,21.07.2020,COVID 19 Pneumonia,Hospital Madurai
 3081,56,MALE,13.07.2020,21.07.2020,cardio respiratory arrest ; COVID 19 Pneumonia,Hospital Chennai
 3082,45,FEMALE,24.06.2020,21.07.2020,Respiratory Failure ; Metastasis ; COVID 19 Pneumonia,Medical College
-3083,NA,MALE,02.07.2020,21.07.2020,Acute Respiratory Distress Syndrome ; Multi Organ Dysfunction ; COVID-19 Pneumonia,Hospital Complaints
+3083,76,MALE,02.07.2020,21.07.2020,Acute Respiratory Distress Syndrome ; Multi Organ Dysfunction ; COVID-19 Pneumonia,Hospital Complaints
 3084,66,FEMALE,19.07.2020,21.07.2020,Respiratory Failure ; Cardio Pulmonary Arrest; COVID-19 Pneumonia,
-3085,NA,MALE,12.07.2020,NA,Small Bowel Ischemia ;COVID-19 Pneumonia,Medical College
+3085,50,MALE,12.07.2020,NA,Small Bowel Ischemia ;COVID-19 Pneumonia,Medical College
 3086,61,MALE,12.07.2020,21.07.2020,Cardio Respiratory Arrest ; COVID-19 Pneumonia,Hospital Madurai Complaints
-3087,NA,MALE,07.07.2020,20.07.2020,NA,Medical College
+3087,75,MALE,07.07.2020,20.07.2020,NA,Medical College
 3088,71,MALE,14.07.2020,20.07.2020,NA,Madurai Complaints
-3089,NA,MALE,1.7.2020,20.7.2020,Respiratory Failure ; COVID-19 Pneumonia,Breathing
+3089,44,MALE,1.7.2020,20.7.2020,Respiratory Failure ; COVID-19 Pneumonia,Breathing
 3090,75,MALE,20.07.2020,20.07.2020,Sepsis ; COVID-19 Pneumonia,Medical College
 3091,54,FEMALE,20.07.2020,20.07.2020,Cardio Pulmonary Arrest;Pulmonary Tuberculosis; COVID 19 Pneumonia,
 3092,49,FEMALE,10.07.2020,20.07.2020,Type I Respiratory Failure ; COVID 19 Pneumonia,Hospital Chennai
@@ -2561,7 +2561,7 @@ NO,90,MALE,22.06.2020,29.06.2020,Cardiac Arrest ; COVID-19 Pneumonia,
 3097,54,MALE,14.07.2020,21.07.2020,ARDS ; COVID 19 Pneumonia,GH Sivakasi Fever
 3098,77,FEMALE,19.07.2020,21.07.2020,Cardio respiratory arrest ; COVID 19 Pneumonia,
 3099,80,MALE,18.07.2020,21.07.2020,ARDS ; Respiratory Failure ; COVID-19 Pneumonia,Breathing
-3100,NA,MALE,16.07.2020,21.07.2020,Respiratory Failure ; COVID-19 Pneumonia,Breathing
+3100,73,MALE,16.07.2020,21.07.2020,Respiratory Failure ; COVID-19 Pneumonia,Breathing
 3101,67,FEMALE,16.07.2020,21.07.2020,Acute Respiratory Failure; COVID-19 Pneumonia,Breathing
 3102,55,MALE,17.07.2020,17.07.2020,Respiratory Failure ; Acute Respiratory Distress Syndrome ; COVID 19 Pneumonia,Vellore Medical College Hospital
 3103,48,MALE,17.07.2020,21.07.2020,COVID Pneumonia ; Respiratory Failure ; Diabetes Mellitus ; COVID Pneumonitis,Thiruvannamalai Medical College Hospital
@@ -2605,33 +2605,33 @@ NO,90,MALE,22.06.2020,29.06.2020,Cardiac Arrest ; COVID-19 Pneumonia,
 3141,65,MALE,21.06.2020,24.06.2020,Sudden Cardiac Death ; SARS CoV-2 Pneumonia ; Type 2 Diabetes Mellitus,Rajah Muthaiah Medical College Hospital Chidambaram
 3142,63,MALE,26.06.2020,28.06.2020,Acute Respiratory Distress Syndrome ; SARS CoV-2 Pneumonia ; Hypertension,Rajah Muthaiah Medical College Hospital Chidambaram
 3143,52,MALE,26.06.2020,30.06.2020,Acute Respiratory Distress Syndrome ; SARS CoV-2 Pneumonia ; Type 2 Diabetes Mellitus,Rajah Muthaiah Medical College Hospital Chidambaram
-3145,NA,MALE,17.07.2020,22.07.2020,ARDS ;COVID-19,Vellore
+3145,63,MALE,17.07.2020,22.07.2020,ARDS ;COVID-19,Vellore
 3146,56,MALE,08.07.2020,22.07.2020,ARDS ;COVID-19,Vellore
-3147,NA,FEMALE,18.07.2020,22.07.2020,Respiratory Failure ; COVID-19 Pneumonia,
-3148,NA,FEMALE,02.07.2020,22.07.2020,Bilateral pneumothorax ;COVID-19 Pneumonia,Complaints
-3149,NA,MALE,06.07.2020,22.07.2020,Respiratory Failure ; COVID-19,Complaints
-3150,NA,FEMALE,13.07.2020,22.07.2020,NA,Complaints
-3151,NA,MALE,22.07.2020,23.07.2020,Cardio Respiratory Arrest ;COVID-19 Pneumonia,Complaints
+3147,62,FEMALE,18.07.2020,22.07.2020,Respiratory Failure ; COVID-19 Pneumonia,
+3148,63,FEMALE,02.07.2020,22.07.2020,Bilateral pneumothorax ;COVID-19 Pneumonia,Complaints
+3149,59,MALE,06.07.2020,22.07.2020,Respiratory Failure ; COVID-19,Complaints
+3150,53,FEMALE,13.07.2020,22.07.2020,NA,Complaints
+3151,67,MALE,22.07.2020,23.07.2020,Cardio Respiratory Arrest ;COVID-19 Pneumonia,Complaints
 3152,84,FEMALE,02.07.2020,23.07.2020,NA,Complaints
 3153,53,MALE,16.07.2020,22.07.2020,Cardiac Arrest ; COVID-19,Complaints
-3154,NA,MALE,20.07.2020,22.07.2020,Severe Respiratory Failure ; COVID-19 Pneumonia,Complaints
-3155,NA,MALE,09.07.2020,22.07.2020,Cardio Respiratory Arrest ;COVID-19,Complaints
-3156,NA,MALE,21.07.2020,22.07.2020,Cardio Respiratory Failure ; COVID-19,Complaints
-3157,NA,MALE,16.07.2020,22.07.2020,NA,Complaints
-3158,NA,MALE,15.07.2020,22.07.2020,Septic Shock;COVID-19 Pneumonia,Complaints
-3159,NA,MALE,20.07.2020,NA,COVID 19             ; ARDS ; Sepsis ; Bilateral Viral Pneumonitis,
-3160,NA,MALE,18.07.2020,21.07.2020,Septic Shock;ARDS;COVID-19 pneumonia,
+3154,56,MALE,20.07.2020,22.07.2020,Severe Respiratory Failure ; COVID-19 Pneumonia,Complaints
+3155,96,MALE,09.07.2020,22.07.2020,Cardio Respiratory Arrest ;COVID-19,Complaints
+3156,72,MALE,21.07.2020,22.07.2020,Cardio Respiratory Failure ; COVID-19,Complaints
+3157,72,MALE,16.07.2020,22.07.2020,NA,Complaints
+3158,77,MALE,15.07.2020,22.07.2020,Septic Shock;COVID-19 Pneumonia,Complaints
+3159,43,MALE,20.07.2020,NA,COVID 19             ; ARDS ; Sepsis ; Bilateral Viral Pneumonitis,
+3160,56,MALE,18.07.2020,21.07.2020,Septic Shock;ARDS;COVID-19 pneumonia,
 3161,37,FEMALE,21.07.2020 11.00,21.07.2020,Sepsis ; ARDS ;COVID-19,
-3163,NA,FEMALE,15.07.2020,21.07.2020,Respiratory Failure ; COVID-19 Pneumonia,
+3163,67,FEMALE,15.07.2020,21.07.2020,Respiratory Failure ; COVID-19 Pneumonia,
 3164,38,MALE,08.07.2020,21.07.2020,Follicular Lymphoma; COVID 19 Positive,Madurai
 3165,34,FEMALE,20.07.2020,21.07.2020,Hypoxic respiratory failure ; COVID 19,
 3166,43,MALE,17.07.20,20.07.2020,Severe ARDS ; COVID 19 Pneumonia,Trichy
 3167,37,MALE,07.07.2020,19.07.2020,Type I Respiratory Failure ; Cytokine Storm ; COVID 19 Pneumonia,Trichy
 3168,72,MALE,12.07.2020,16.07.20,ARDS ;COVID 19 Pneumonia,Trichy
 3169,75,MALE,26.06.2020,28.06.2020,NA,Trichy
-3170,NA,MALE,20.07.2020,21.07.2020,ARDS ; COVID-19 Pneumonia,Breathing
-3171,NA,MALE,18.07.2020,22.07.2020,Acute Pulmonary Edema;COVID-19,Government Headquarters Hospital Krishnagiri Complaints
-3172,NA,MALE,21.07.2020 09.07,21.07.2020,Sudden Cardio Pulmonary Arrest ; COVID-19 pneumonia,Breathing
+3170,61,MALE,20.07.2020,21.07.2020,ARDS ; COVID-19 Pneumonia,Breathing
+3171,58,MALE,18.07.2020,22.07.2020,Acute Pulmonary Edema;COVID-19,Government Headquarters Hospital Krishnagiri Complaints
+3172,75,MALE,21.07.2020 09.07,21.07.2020,Sudden Cardio Pulmonary Arrest ; COVID-19 pneumonia,Breathing
 3173,75,MALE,17.07.2020,21.07.2020,ARDS ; Cardio Respiratory Arrest ;COVID 19 Pneumonia,
 3174,65,FEMALE,21.07.2020,21.07.2020,Cardio Respiratory Arrest ; ARDS ; COVID 19 Pneumonia,Govt
 3175,60,MALE,19.07.2020,21.07.2020,Cardio Respiratory Arrest ; ARDS ; COVID-19 Pneumonia,
@@ -2692,7 +2692,7 @@ NO,90,MALE,22.06.2020,29.06.2020,Cardiac Arrest ; COVID-19 Pneumonia,
 3230,86,FEMALE,16.07.2020,22.07.2020,COVID 19 Pneumonia ; Respiratory Failure ; Type 2 Diabetes Mellitus,Rajiv Gandhi Govt General Hospital
 3231,94,MALE,11.07.2020,22.07.2020,COVID 19 Pneumonia ; Respiratory Failure ; Coronary Artery Disease ; HTN,Rajiv Gandhi Govt General Hospital
 3232,61,MALE,21.07.2020,22.07.2020,Acute Respiratory Distress Syndrome ; Diabetes Mellitus ; COVID 19 Pneumonia,Govt Rajaji Hospital Madurai
-NO,NA,MALE,19.7.2020,23.7.2020,Acute Pulmonary Edema;COVID-19,Breathing
+NO,65,MALE,19.7.2020,23.7.2020,Acute Pulmonary Edema;COVID-19,Breathing
 3263,59,MALE,19.07.2020,23.07.2020,Acute Respiratory Distress Syndrome ; Severe Pneumonia ; 60% Lung Injury ; Diabetes Mellitus ; Systemic Hypertension,Government Medical College ESI Hospital Coimbatore
 3264,41,MALE,19.07.2020,23.07.2020,Respiratory Failure ; Acute Respiratory Distress Syndrome ; Viral Pneumonia ; COVID 19 Positive,Chengalpattu Medical College Hospital
 3265,41,FEMALE,20.07.2020,NA,Respiratory Failure ; COVID Positive ; Type 2 Diabetes Mellitus ; DKA,Tirunelveli Medical College Hospital
@@ -2752,16 +2752,16 @@ NO,NA,MALE,19.7.2020,23.7.2020,Acute Pulmonary Edema;COVID-19,Breathing
 3319,96,FEMALE,20.07.2020,24.07.2020,Viral Pneumonia ; Respiratory Failure ; COVID Status Positive,Kilpauk Medical College Hospital Chennai
 3320,75,SALEM,23.07.2020,24.07.2020,COVID 19 Pneumonia ; Type 2 Diabetes Mellitus ; Systemic Hypertension ; Coronary Artery Disease ; Severe Acute Respiratory Infection,Government Mohan Kumaramangalam Medical College Hospital
 3321,54,MALE,14.07.2020,24.07.2020,NA,
-3322,NA,MALE,04.07.2020,25.07.2020,NA,
-3323,NA,MALE,15.07.2020,25.07.2020,NA,Hospital
+3322,67,MALE,04.07.2020,25.07.2020,NA,
+3323,83,MALE,15.07.2020,25.07.2020,NA,Hospital
 hodgkin’s,NA,- HODGKIN’S LYMPHOMA ADMITTED ON 23.07.2020 AT 06.47 PM IN A PRIVATE HOSPITAL WITH COMPLAINTS OF FEVER, COUGH AND DIFFICULTY IN BREATHING FOR 3 DAYS DIED ON 25.07.2020 AT 07.45 AM DUE TO COVID-19 PNEUMONIA.  ,23.07.2020,25.07.2020,NA,Hospital
-3325,NA,MALE,24.07.2020,25.07.2020,NA,Hospital
-3326,NA,MALE,09.07.2020,24.07.2020,NA,Hospital
-3327,NA,MALE,10.07.2020,24.07.2020,NA,Hospital
-3328,NA,MALE,09.07.2020,24.07.2020,NA,Hospital
-3329,NA,MALE,19.07.2020,24.07.2020,NA,Madurai
-3330,NA,MALE,23.07.2020,24.07.2020,COVID Pneumonia ; ARDS ; Sepsis,Hospital
-3331,NA,FEMALE,15.07.2020,24.07.2020,NA,Hospital Madurai
+3325,52,MALE,24.07.2020,25.07.2020,NA,Hospital
+3326,55,MALE,09.07.2020,24.07.2020,NA,Hospital
+3327,73,MALE,10.07.2020,24.07.2020,NA,Hospital
+3328,42,MALE,09.07.2020,24.07.2020,NA,Hospital
+3329,76,MALE,19.07.2020,24.07.2020,NA,Madurai
+3330,58,MALE,23.07.2020,24.07.2020,COVID Pneumonia ; ARDS ; Sepsis,Hospital
+3331,65,FEMALE,15.07.2020,24.07.2020,NA,Hospital Madurai
 3332,82,FEMALE,17.07.2020,24.07.2020,Respiratory Arrest ;COVID 19,Hospital Ramanathapuram
 3333,58,MALE,16.07.2020,24.07.2020,Atypical COVID 19 Pneumonia,Hospital Trichy
 3334,62,MALE,17.07.2020,24.07.2020,Respiratory failure ; Cardio respiratory arrest ; COVID 19 Pneumonia,Trichy
@@ -2775,12 +2775,12 @@ hodgkin’s,NA,- HODGKIN’S LYMPHOMA ADMITTED ON 23.07.2020 AT 06.47 PM IN A PR
 3342,66,MALE,20.06.2020,11.07.2020,Sepsis ; Septic shock ; ARDS ; COVID 19,
 3343,73,MALE,11.07.2020,15.07.2020,ILD with severe COVID 19 ; AKI ;Cardio respiratory arrest,
 3344,59,FEMALE,22.07.2020,24.07.2020,NA,Government Headquarters Hospital Ramanathapuram
-3345,NA,MALE,21.07.2020,24.07.2020,NA,Government Kallakurichi Medical College
-3346,NA,MALE,22.07.2020,24.07.2020,NA,
+3345,65,MALE,21.07.2020,24.07.2020,NA,Government Kallakurichi Medical College
+3346,51,MALE,22.07.2020,24.07.2020,NA,
 3347,67,FEMALE,23.07.2020,23.07.2020,Respiratory failure ; COVID 19 Pneumonia,Govt
 3348,67,MALE,20.07.2020,20.07.2020,Respiratory failure ; COVID-19 Pneumonia,Govt
 3349,72,FEMALE,20.07.2020,20.07.2020,Respiratory failure ; COVID 19 Pneumonia,Govt
-3350,NA,FEMALE,17.07.2020,25.07.2020,NA,Southern Railway Hospital Perambur
+3350,61,FEMALE,17.07.2020,25.07.2020,NA,Southern Railway Hospital Perambur
 3351,65,FEMALE,10.07.2020,24.07.2020,cardio pulmonary arrest ; ARDS ; Severe COVID 19 Pneumonia,Southern Railway Hospital Perambur
 3352,68,FEMALE,23.07.2020,24.07.2020,cardio pulmonary arrest ; ARDS ; Severe COVID 19 Pneumonia,Southern Railway Hospital Perambur
 3353,52,MALE,24.07.2020,24.07.2020,COVID Pneumonia ; Type 2 Diabetes Mellitus ; Systemic Hypertension,Government Medical College ESI Hospital
@@ -2964,7 +2964,7 @@ NO,78,MALE,18.07.2020,25.07.2020,ARDS ; Respiratory failure;cardio respiratory a
 3569,37,FEMALE,02.07.2020,11.07.2020,Acute Respiratory Distress Syndrome ; Coronary Artery Disease ; Moderate Left Ventricular Dysfunction ; Acute on Chronic Diabetic Kidney Disease ; Diabetes Mellitus ; Systemic Hypertension ; COVID Status Positive,Kilpauk Medical College Hospital Chennai
 3570,80,MALE,02.07.2020,09.07.2020,Respiratory Failure ; COVID Pneumonia ; Sepsis ; Multiple Organ Dysfunction Syndrome,Kilpauk Medical College Hospital Chennai
 3571,61,MALE,06.07.2020,09.07.2020,Respiratory Failure ; COVID Pneumonia ; Psychiatric Illness,Kilpauk Medical College Hospital Chennai
-3573,NA,FEMALE,19.07.2020,27.07.2020,NA,Madurai Complaints
+3573,66,FEMALE,19.07.2020,27.07.2020,NA,Madurai Complaints
 3574,60,MALE,25.07.2020,27.07.2020,NA,Medical College Hospital
 3575,66,MALE,02.07.2020,27.07.2020,Type I respiratory failure ; COVID-19,Chennai
 3576,81,FEMALE,22.07.2020,27.07.2020,Type II Respiratory failure ; Bilateral pneumonia ;COVID-19,Chennai
@@ -2977,21 +2977,21 @@ NO,78,MALE,18.07.2020,25.07.2020,ARDS ; Respiratory failure;cardio respiratory a
 3583,67,MALE,15.06.2020,27.07.2020,Sepsis ; MODS ; COVID-19,Chennai
 3584,84,MALE,21.07.20,27.07.2020,cardio respiratory arrest ; COVID-19 pneumonia,Madurai
 3585,46,MALE,14.07.2020,27.07.2020,NA,Madurai Complaints
-3586,NA,MALE,13.07.2020,28.07.2020,Severe ARDS ;COVID-19 Pneumonia;Septic Shock,Madurai Complaints
-3587,NA,MALE,25.07.2020,28.07.2020,NA,Complaints
-3588,NA,FEMALE,9.7.2020,28.7.2020,NA,
-3589,NA,MALE,25.07.2020,28.07.2020,Respiratory Failure; Cardiac Arrest ;COVID-19 Pneumonia,Complaints
-3590,NA,MALE,26.07.2020,28.07.2020,Sudden Cardiac Arrest ; SARI ;COVID-19 Pneumonia,Complaints
+3586,81,MALE,13.07.2020,28.07.2020,Severe ARDS ;COVID-19 Pneumonia;Septic Shock,Madurai Complaints
+3587,85,MALE,25.07.2020,28.07.2020,NA,Complaints
+3588,54,FEMALE,9.7.2020,28.7.2020,NA,
+3589,58,MALE,25.07.2020,28.07.2020,Respiratory Failure; Cardiac Arrest ;COVID-19 Pneumonia,Complaints
+3590,62,MALE,26.07.2020,28.07.2020,Sudden Cardiac Arrest ; SARI ;COVID-19 Pneumonia,Complaints
 3591,66,FEMALE,25.07.2020,25.07.2020,UGI bleed ; COVID-19 pneumonia ;Hypovolemic shock,Hospital Chennai
 3592,78,MALE,20.07.2020,21.07.2020,viral COVID-19 pneumonia ; ARDS ;Type I respiratory failure,Chennai
-3593,NA,MALE,19.07.2020,24.07.2020,NA,Complaints
-3594,NA,FEMALE,16.07.2020,23.07.2020,Respiratory Failure ; Cardio Respiratory Arrest ; COVID-19 Pneumonia,Complaints
-3595,NA,MALE,24.07.2020,26.07.2020,NA,Breathing
+3593,75,MALE,19.07.2020,24.07.2020,NA,Complaints
+3594,90,FEMALE,16.07.2020,23.07.2020,Respiratory Failure ; Cardio Respiratory Arrest ; COVID-19 Pneumonia,Complaints
+3595,40,MALE,24.07.2020,26.07.2020,NA,Breathing
 3596,65,MALE,08.07.2020,12.07.2020,acute intra cerebral hemmorhage ; COVID-19,
 3597,60,FEMALE,15.07.2020,17.07.2020,cardio respiratory arrest ; COVID-19,
 3598,54,MALE,12.07.2020,12.07.2020,Acute respiratory failure ; Myasthenia Gravis ;COVID-19,
-3599,NA,MALE,25.07.2020,25.07.2020,NA,Breathing
-3600,NA,MALE,21.07.2020,25.07.2020,NA,
+3599,74,MALE,25.07.2020,25.07.2020,NA,Breathing
+3600,65,MALE,21.07.2020,25.07.2020,NA,
 3601,90,MALE,23.07.2020,27.07.20,Respiratory failure ; COVID- 19 pneumonia,
 3602,62,MALE,08.07.2020,26.07.2020,COVID Pneumonia ; Diabetes Mellitus,Government Medical College ESI Hospital Coimbatore
 3603,34,FEMALE,NA,25.07.2020,Acute Respiratory Distress Syndrome ; COVID Pneumonia,Thiruvarur Medical College Hospital Thiruvarur
