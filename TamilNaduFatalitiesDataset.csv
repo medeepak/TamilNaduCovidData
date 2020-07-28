@@ -2692,3 +2692,362 @@ NO,90,MALE,22.06.2020,29.06.2020,Cardiac Arrest ; COVID-19 Pneumonia,
 3230,86,FEMALE,16.07.2020,22.07.2020,COVID 19 Pneumonia ; Respiratory Failure ; Type 2 Diabetes Mellitus,Rajiv Gandhi Govt General Hospital
 3231,94,MALE,11.07.2020,22.07.2020,COVID 19 Pneumonia ; Respiratory Failure ; Coronary Artery Disease ; HTN,Rajiv Gandhi Govt General Hospital
 3232,61,MALE,21.07.2020,22.07.2020,Acute Respiratory Distress Syndrome ; Diabetes Mellitus ; COVID 19 Pneumonia,Govt Rajaji Hospital Madurai
+NO,NA,MALE,19.7.2020,23.7.2020,Acute Pulmonary Edema;COVID-19,Breathing
+3263,59,MALE,19.07.2020,23.07.2020,Acute Respiratory Distress Syndrome ; Severe Pneumonia ; 60% Lung Injury ; Diabetes Mellitus ; Systemic Hypertension,Government Medical College ESI Hospital Coimbatore
+3264,41,MALE,19.07.2020,23.07.2020,Respiratory Failure ; Acute Respiratory Distress Syndrome ; Viral Pneumonia ; COVID 19 Positive,Chengalpattu Medical College Hospital
+3265,41,FEMALE,20.07.2020,NA,Respiratory Failure ; COVID Positive ; Type 2 Diabetes Mellitus ; DKA,Tirunelveli Medical College Hospital
+3266,48,MALE,16.07.2020,24.07.2020,Respiratory Failure ; COVID Status Positive ; Fungicide Poisoning ; Aspiration Pneumonitis,Kilpauk Medical College Hospital Chennai
+3267,59,MALE,16.07.2020,24.07.2020,COVID 19 Pneumonia ; Respiratory Failure,RGGGH Chennai
+3268,54,FEMALE,13.07.2020,23.07.2020,COVID 19 Pneumonia ; Respiratory Failure ; Acute CVA ; Left MCA Infarct ; Systemic Hypertension ; Type 2 Diabetes Mellitus,Rajiv Gandhi Govt General Hospital
+3269,63,MALE,17.07.2020,22.07.2020,Sepsis ; MODS ; Polycystic Kidney Disease ; Acute on Chronic Kidney Disease ; Old PTB – sequelae ; Type 2 Diabetes Mellitus ; COVID Positive,Thiruvannamalai Medical College Hospital
+3270,69,MALE,20.07.2020,23.07.2020,Respiratory Failure ; Systemic Hypertension ; COVID Pneumonia,Kanyakumari Medical College Hospital Kanyakumari
+3271,45,FEMALE,21.07.2020,23.07.2020,Respiratory Failure ; Diabetes Mellitus ; HT ; Bronchial Asthma ; COVID Pneumonia,Dharmapuri Medical College Hospital Dharmapuri
+3272,48,FEMALE,18.07.2020,23.07.2020,COVID 19 Pneumonia ; Respiratory Failure ; OSA,Rajiv Gandhi Govt General Hospital
+3273,52,MALE,20.07.2020,22.07.2020,Head Injury; Diffuse SAH; Anterior Cerebral Artery Aneurysm ; COVID 19 Positive ; Coronary Artery Disease,Coimbatore Medical College Hospital
+3274,70,MALE,21.07.2020,21.07.2020,Bilateral Bronchopneumonia ; COVID Positive ; Type 2 Diabetes Mellitus,Coimbatore Medical College Hospital
+3275,61,MALE,20.07.2020,22.07.2020,Acute Pulmonary Oedema ; Renal Failure ; Type 2 Diabetes Mellitus ; Peripheral Vascular Disease,Coimbatore Medical College Hospital
+3276,64,MALE,21.07.2020,22.07.2020,Bilateral Bronchopneumonia ; COVID Positive ; Chronic Kidney Disease ; Coronary Artery Disease ; Systemic Hypertension ; Type 2 Diabetes Mellitus,Coimbatore Medical College Hospital
+3277,90,MALE,15.07.2020,22.07.2020,Acute Respiratory Distress Syndrome ; Acute Respiratory Failure ;COVID Pneumonia ; Diabetes Mellitus ; Systemic Hypertension ; Bronchial Asthma ; COVID Positive,Government Medical College Hospital Omandurar
+3278,40,MALE,16.06.2020,23.07.2020,Acute Respiratory Distress Syndrome ; Acute Respiratory Failure ; COVID Pneumonia ; Diabetes Mellitus ; COVID Positive,Government Medical College Hospital Omandurar
+3279,42,MALE,13.07.2020,22.07.2020,Acute Respiratory Distress Syndrome ; Acute Respiratory Failure ;COVID Pneumonia ; CVA ; Pulmonary TB ;COVID Positive,Government Medical College Hospital Omandurar
+3280,63,MALE,06.07.2020,22.07.2020,Acute Respiratory Distress Syndrome ; Acute Respiratory Failure ; COVID Pneumonia ; Diabetes Mellitus ; COVID Positive,Government Medical College Hospital Omandurar
+3281,66,MALE,21.07.2020,23.07.2020,Respiratory Failure ; Viral Pneumonia ; COVID 19 Positive,Chengalpattu Medical College Hospital
+3282,80,MALE,22.07.2020,22.07.2020,Respiratory Failure ; Pneumonia ; Bronchial Asthma ; Type 2 Diabetes Mellitus ; Coronary Artery Disease,Chengalpattu Medical College Hospital
+3283,66,FEMALE,08.07.2020,22.07.2020,Respiratory Failure; Acute Respiratory Distress Syndrome ; COVID 19 Positive ; Viral Pneumonia,Chengalpattu Medical College Hospital
+3284,49,MALE,21.07.2020,22.07.2020,Respiratory Failure ; Morbid Obesity ; COVID 19 Positive ; Viral Pneumonia ; Uncontrolled Type 2 Diabetes Mellitus,Chengalpattu Medical College Hospital
+3285,72,MALE,21.07.2020,NA,Respiratory Failure ; COVID Positive ; Diabetes Mellitus,Tirunelveli Medical College Hospital
+3286,73,FEMALE,14.07.2020,22.07.2020,Respiratory Failure ; COVID Positive ; Type 2 Diabetes Mellitus ; Systemic Hypertension,Tirunelveli Medical College Hospital
+3287,56,MALE,13.07.2020,NA,Respiratory Failure ; COVID Positive ; Systemic Hypertension ; Malignancy (CML),Tirunelveli Medical College Hospital
+3288,65,MALE,19.07.2020,NA,Respiratory Failure ; COVID Positive,Tirunelveli Medical College Hospital
+3289,58,FEMALE,17.07.2020,22.07.2020,Respiratory Failure ; COVID Positive ; Chronic Kidney Disease ; Type 2 Diabetes Mellitus ; Systemic Hypertension ; Coronary Artery Disease,Tirunelveli Medical College Hospital
+3290,72,FEMALE,20.07.2020,NA,Respiratory Failure ; COVID Positive ; Diabetes Mellitus,Tirunelveli Medical College Hospital
+3291,81,MALE,18.07.2020,19.07.2020,Respiratory Failure ; COVID Positive,Tirunelveli Medical College Hospital
+3292,75,MALE,17.07.2020,22.07.2020,Chronic Kidney Disease ; Metabolic Encephalopathy ; Multi Infarct Dementia ;COVID 19 Positive,Theni Medical College Hospital
+3293,46,MALE,14.07.2020,22.07.2020,COVID Pneumonia ; Acute Respiratory Failure ; Type 2 Diabetes Mellitus ; Morbid Obesity,Theni Medical College Hospital
+3294,72,MALE,15.07.2020,21.07.2020,COVID 19 Pneumonia ; Type 2 Diabetes Mellitus ; Systemic Hypertension,Government Vellore Medical College Hospital Vellore
+3295,65,MALE,14.07.2020,21.07.2020,Aspiration Pneumonitis ; COVID 19 Positive,Government Vellore Medical College Hospital Vellore
+3296,87,MALE,17.07.2020,23.07.2020,COVID 19 Pneumonia ; Acute Respiratory Failure ; Systemic Hypertension ; Acute Respiratory Distress Syndrome ; Chronic Kidney Disease ; COVID Status Positive,Government Medical College Hospital Pudukottai
+3297,65,FEMALE,21.07.2020,23.07.2020,COVID 19 Pneumonia ; Respiratory Failure ; Systemic Hypertension,Kanyakumari Government Medical College Hospital Asaripallam
+3298,61,FEMALE,21.07.2020,24.07.2020,COVID 19 Pneumonia ; Respiratory Failure ; DKA,Kanyakumari Government Medical College Hospital Asaripallam
+3299,72,MALE,17.07.2020,23.07.2020,NA,Kanyakumari Government Medical College Hospital Asaripallam
+3300,54,MALE,17.07.2020,23.07.2020,COVID 19 Pneumonia ; Respiratory Failure ; Systemic Hypertension ; Diabetes Mellitus,Kanyakumari Government Medical College Hospital Asaripallam
+3301,58,MALE,21.07.2020,23.07.2020,COVID Positive Pneumonia ; Acute Respiratory Distress Syndrome ; Systemic Hypertension,Government Rajaji Hospital Madurai
+3302,83,MALE,22.07.2020,22.07.2020,COVID Positive Pneumonia ; Acute Respiratory Distress Syndrome ; Systemic Hypertension,Government Rajaji Hospital Madurai
+3303,70,MALE,20.07.2020,23.07.2020,COVID Acute Respiratory Distress Syndrome ; Diabetes Mellitus ; COVID Positive Pneumonia ; Systemic Hypertension,Government Rajaji Hospital Madurai
+3304,78,MALE,21.07.2020,23.07.2020,COVID Positive Pneumonia ; Acute Respiratory Distress Syndrome ; Systemic Hypertension,Government Rajaji Hospital Madurai
+3305,65,MALE,18.07.2020,23.07.2020,COVID 19 Positive ; Broncho pneumonia ; Hepatic Encephalopathy ; Septic Shock ; AKI ; Ethanol Related Chronic Liver Disease ; Systemic Hypertension,Government Stanley Hospital Chennai
+3306,80,FEMALE,21.07.2020,23.07.2020,COVID 19 Positive ; Respiratory Failure ; Type 2 Diabetes Mellitus ; Systemic Hypertension,RGGGH Chennai
+3307,55,MALE,21.07.2020,24.07.2020,COVID 19 Pneumonia; Respiratory Failure ; Type 2 Diabetes Mellitus ; Systemic Hypertension ; Chronic Kidney Disease,RGGGH Chennai
+3308,65,MALE,20.07.2020,23.07.2020,COVID 19 Pneumonia ; Respiratory Failure ; Coronary Artery Disease ; Old IWMI,RGGGH Chennai
+3309,52,FEMALE,20.07.2020,23.07.2020,COVID 19 Positive ; Respiratory Failure ; Type 2 Diabetes Mellitus ; Systemic Hypertension,RGGGH Chennai
+3310,65,FEMALE,11.07.2020,23.07.2020,COVID 19 Pneumonia ; Respiratory Failure ; Systemic Hypertension,RGGGH Chennai
+3311,86,MALE,11.07.2020,23.07.2020,COVID 19 Pneumonia; Respiratory Failure ; Systemic Hypertension,RGGGH Chennai
+3312,86,MALE,20.07.2020,24.07.2020,COVID 19 Pneumonia ; Respiratory Failure ; Systemic Hypertension,RGGGH Chennai
+3313,54,MALE,18.07.2020,24.07.2020,COVID 19 Pneumonia; Respiratory Failure ; Evolved AWMI,RGGGH Chennai
+3314,54,MALE,16.07.2020,22.07.2020,COVID 19 Pneumonia; Carcinoma Cervix ; Chronic Kidney Disease ; Acute Respiratory Distress Syndrome,Chengalpattu Medical College Hospital
+3315,40,MALE,18.07.2020,23.07.2020,COVID 19 Pneumonia; Respiratory Failure ; Evolved AWMI,Sivagangai Medical College Hospital Sivagangai
+3316,44,MALE,11.07.2020,23.07.2020,Acute Respiratory Failure ; Acute Respiratory Distress Syndrome ; COVID 19 positive ; COVID Pneumonia,Government Medical College Hospital Omandurar Government
+3317,85,FEMALE,11.07.2020,24.07.2020,Acute Respiratory Distress Syndrome ; Acute Respiratory Failure ; COVID Pneumonia ; COVID Positive ; Coronary Artery Disease,Government Medical College Hospital Omandurar Government
+3318,52,MALE,21.07.2020,24.07.2020,COVID 19 Positive ; Broncho Pneumonia ; Type 2 Diabetes Mellitus ; Acute Respiratory Distress Syndrome,Stanley Medical College Hospital Chennai
+3319,96,FEMALE,20.07.2020,24.07.2020,Viral Pneumonia ; Respiratory Failure ; COVID Status Positive,Kilpauk Medical College Hospital Chennai
+3320,75,SALEM,23.07.2020,24.07.2020,COVID 19 Pneumonia ; Type 2 Diabetes Mellitus ; Systemic Hypertension ; Coronary Artery Disease ; Severe Acute Respiratory Infection,Government Mohan Kumaramangalam Medical College Hospital
+3321,54,MALE,14.07.2020,24.07.2020,NA,
+3322,NA,MALE,04.07.2020,25.07.2020,NA,
+3323,NA,MALE,15.07.2020,25.07.2020,NA,Hospital
+hodgkin’s,NA,- HODGKIN’S LYMPHOMA ADMITTED ON 23.07.2020 AT 06.47 PM IN A PRIVATE HOSPITAL WITH COMPLAINTS OF FEVER, COUGH AND DIFFICULTY IN BREATHING FOR 3 DAYS DIED ON 25.07.2020 AT 07.45 AM DUE TO COVID-19 PNEUMONIA.  ,23.07.2020,25.07.2020,NA,Hospital
+3325,NA,MALE,24.07.2020,25.07.2020,NA,Hospital
+3326,NA,MALE,09.07.2020,24.07.2020,NA,Hospital
+3327,NA,MALE,10.07.2020,24.07.2020,NA,Hospital
+3328,NA,MALE,09.07.2020,24.07.2020,NA,Hospital
+3329,NA,MALE,19.07.2020,24.07.2020,NA,Madurai
+3330,NA,MALE,23.07.2020,24.07.2020,COVID Pneumonia ; ARDS ; Sepsis,Hospital
+3331,NA,FEMALE,15.07.2020,24.07.2020,NA,Hospital Madurai
+3332,82,FEMALE,17.07.2020,24.07.2020,Respiratory Arrest ;COVID 19,Hospital Ramanathapuram
+3333,58,MALE,16.07.2020,24.07.2020,Atypical COVID 19 Pneumonia,Hospital Trichy
+3334,62,MALE,17.07.2020,24.07.2020,Respiratory failure ; Cardio respiratory arrest ; COVID 19 Pneumonia,Trichy
+3335,69,MALE,08.07.2020,24.07.2020,COVID 19 ; MODS ;SHOCK,Hospital
+3336,61,MALE,22.07.2020,23.07.2020,RTA with Severe Head Injury ; COVID 19,Hospital Madurai
+3337,65,MALE,16.07.2020,23.07.2020,Acute Neuro Vascular Syndrome; COVID-19 Pneumonia,Hospital Madurai
+3338,67,MALE,14.07.2020,23.07.2020,Atypical Pneumonia;COVID 19,Hospital Trichy
+3339,44,MALE,04.07.2020,21.07.2020,Respiratory failure ; Cardiac arrest ;COVID 19 Pneumonia,Hospital Trichy
+3340,72,FEMALE,15.07.2020,18.07.2020,Respiratory failure;COVID 19 Pneumonia,
+3341,77,FEMALE,04.07.2020,16.07.2020,Septic Shock ; COVID 19 Pneumonia,Chennai
+3342,66,MALE,20.06.2020,11.07.2020,Sepsis ; Septic shock ; ARDS ; COVID 19,
+3343,73,MALE,11.07.2020,15.07.2020,ILD with severe COVID 19 ; AKI ;Cardio respiratory arrest,
+3344,59,FEMALE,22.07.2020,24.07.2020,NA,Government Headquarters Hospital Ramanathapuram
+3345,NA,MALE,21.07.2020,24.07.2020,NA,Government Kallakurichi Medical College
+3346,NA,MALE,22.07.2020,24.07.2020,NA,
+3347,67,FEMALE,23.07.2020,23.07.2020,Respiratory failure ; COVID 19 Pneumonia,Govt
+3348,67,MALE,20.07.2020,20.07.2020,Respiratory failure ; COVID-19 Pneumonia,Govt
+3349,72,FEMALE,20.07.2020,20.07.2020,Respiratory failure ; COVID 19 Pneumonia,Govt
+3350,NA,FEMALE,17.07.2020,25.07.2020,NA,Southern Railway Hospital Perambur
+3351,65,FEMALE,10.07.2020,24.07.2020,cardio pulmonary arrest ; ARDS ; Severe COVID 19 Pneumonia,Southern Railway Hospital Perambur
+3352,68,FEMALE,23.07.2020,24.07.2020,cardio pulmonary arrest ; ARDS ; Severe COVID 19 Pneumonia,Southern Railway Hospital Perambur
+3353,52,MALE,24.07.2020,24.07.2020,COVID Pneumonia ; Type 2 Diabetes Mellitus ; Systemic Hypertension,Government Medical College ESI Hospital
+3354,72,MALE,23.07.2020           ,24.07.2020,Severe Pneumonia ; COVID 19 Positive ; Systemic Hypertension ; Type 2 Diabetes Mellitus,Government Medical College ESI Hospital
+3355,45,MALE,22.07.2020,23.07.2020,NA,Tirunelveli Medical College Hospital
+3356,61,MALE,22.07.2020,24.07.2020,Acute Respiratory Distress Syndrome ; COVID Positive Pneumonia,Government Rajaji Hospital Madurai
+3357,60,MALE,20.07.2020,24.07.2020,NA,Government Rajaji Hospital Madurai
+3358,62,MALE,23.07.2020,24.07.2020,Respiratory Failure ; COVID Pneumonia ; Type 2 Diabetes Mellitus,Kanyakumari Medical College Hospital Asaripallam
+3359,39,FEMALE,22.07.2020,23.07.2020,Viral Pneumonia ; Respiratory Failure ; COVID Positive ; Obesity,Thiruvannamalai Medical College Hospital
+3360,NA,MALE,21.07.2020,22.07.2020,Acute Respiratory Failure ; COVID Pneumonia ; Systemic Hypertension ; Type 2 Diabetes Mellitus ; Coronary Artery Disease ; Post CABG,Tirunelveli Medical College Hospital
+3361,80,FEMALE,18.07.2020,23.07.2020,Acute Respiratory Failure ; COVID 19 Positive ; Viral Pneumonia ; Systemic Hypertension,Tirunelveli Medical College Hospital
+3362,NA,FEMALE,18.07.2020,24.07.2020,Respiratory Failure ; COVID 19 Positive ; Diabetes Mellitus,Tirunelveli Medical College Hospital
+3363,62,MALE,20.07.2020,22.07.2020,Respiratory Failure ;Septic Shock ; COVID 19 Positive ; Systemic Hypertension,Tirunelveli Medical College Hospital
+3364,53,MALE,19.07.2020,24.07.2020,Respiratory Failure ; Chronic Kidney Disease ; Type 2 Diabetes Mellitus ; Systemic Hypertension ; COVID19 Positive,Chengalpattu Medical College Hospital
+3365,36,MALE,18.07.2020,23.07.2020,Septic Shock ; Hepatic Encephalopathy ; DCLD ; COVID 19 Positive,Chengalpattu Medical College Hospital
+3366,48,MALE,21.07.2020,24.07.2020,Septicemia ; DKA ; Type 2 Diabetes Mellitus,Kanyakumari Medical College Hospital Asaripallam
+3367,65,MALE,23.07.2020,24.07.2020,Acute Pulmonary Edema ; Acute Respiratory Failure ; Type 2 Diabetes Mellitus ; Systemic Hypertension ; Coronary Artery Disease ; Post CABG status ; COVID Positive,Pudukkottai Medical College Hospital
+3368,44,FEMALE,10.07.2020,24.07.2020,COVID Positive Status ; COVID Pneumonia ; Acute Respiratory Distress Syndrome ; Acute Respiratory Failure ; Type 2 Diabetes Mellitus,Pudukkottai Medical College Hospital
+3369,18,FEMALE,23.07.2020,23.07.2020,COVID Pneumonia ; Neuromyelitis Optica ; Multiple sclerosis ; Immunosuppressant’s Therapy,Thoothukudi Medical College Hospital
+3370,80,FEMALE,24.07.2020,24.07.2020,Viral Pneumonia ; Respiratory Failure ; Coronary Artery Disease ; COVID 19 Positive ; COPD,Thiruvannamalai Medical College Hospital
+3371,45,FEMALE,15.07.2020,24.07.2020,Viral Pneumonia ; Respiratory Failure ; Sepsis ; Systemic Hypertension ; COVID 19 Positive,Thiruvannamalai Medical College Hospital
+3372,60,FEMALE,20.07.2020,23.07.2020,Viral Pneumonia ; Respiratory Failure; Cystic Bronchiectasis ; Old PTB ; COVID 19 Positive,Thiruvannamalai Medical College Hospital
+3373,71,MALE,20.07.2020,23.07.2020,COVID 19 Pneumonia ; Acute Respiratory Failure ; Type 2 Diabetes Mellitus,Theni Medical College Hospital
+3374,64,MALE,19.07.2020,23.07.2020,COVID 19 Pneumonia ; Coronary Artery Disease ; Post CABG,Theni Medical College Hospital
+3375,60,MALE,20.07.2020,23.07.2020,COVID 19 Pneumonia ; Acute Respiratory Failure ; Type 2 Diabetes Mellitus,Theni Medical College Hospital
+3376,54,MALE,21.07.2020,24.07.2020,COVID Pneumonia ;Respiratory Failure ; Type 2 Diabetes Mellitus,Dharmapuri Medical College Hospital
+3377,60,FEMALE,02.07.2020,18.07.2020,Acute Respiratory Distress Syndrome ; Acute Respiratory Failure ; COVID Pneumonia ; Diabetes Mellitus ; Systemic Hypertension ; COVID Positive,Government Medical College Hospital Omandurar
+3378,65,MALE,10.07.2020,17.07.2020,Acute Respiratory Distress Syndrome ; Acute Respiratory Failure ; COVID Pneumonia ; Diabetes Mellitus ; Systemic Hypertension ; COVID Positive,Government Medical College Hospital Omandurar
+3379,62,FEMALE,14.07.2020,17.07.2020,Acute Respiratory Distress Syndrome ; Acute Respiratory Failure ; COVID Pneumonia ; Diabetes Mellitus ; Systemic Hypertension ; Coronary Artery Disease ; COVID Positive,Government Medical College Hospital Omandurar
+3380,62,MALE,14.07.2020,18.07.2020,Acute Respiratory Distress Syndrome ; Acute Respiratory Failure ; COVID Pneumonia ; Diabetes Mellitus ; Systemic Hypertension ; Coronary Artery Disease ; COVID Positive,Government Medical College Hospital Omandurar
+3381,80,MALE,19.07.2020,24.07.2020,Acute Respiratory       Distress     Syndrome         ;    Acute     Encephalopathy  ; Bronchopnuemonia ; Acute on Chronic Kidney Disease ; Type 2 Diabetes Mellitus ; COVID 19,Government Stanley Hospital Chennai
+3382,57,MALE,23.07.2020,23.07.2020,Bilateral Broncho pneumonia ; COVID Positive ; Cardiogenic Shock ; Upper GI Bleeding ; Type 2 Diabetes Mellitus ; Systemic Hypertension,Coimbatore Medical College Hospital
+3383,55,FEMALE,20.07.2020,23.07.2020,Bilateral Bronchopneumonia ; COVID Positive ; COPD Acute Exacerbation ; Systemic Hypertension,Coimbatore Medical College Hospital
+3384,65,FEMALE,24.07.2020,24.07.2020,Respiratory Failure ; COVID Pneumonia ; Sepsis ; Type 2 Diabetes Mellitus ; Systemic Hypertension,RGGGH Chennai
+3385,55,FEMALE,24.07.2020,25.07.2020,Respiratory Failure ; COVID Pneumonia ; Acute on Chronic Kidney Disease ; Type 2 Diabetes Mellitus ; Hypothyroidism ; Schizophrenia ; COVID Positive,RGGGH Chennai
+3386,85,MALE,18.07.2020,24.07.2020,Respiratory Failure ; COVID Pneumonia ; Acute Respiratory Distress Syndrome ; Systemic Hypertension ; Old PTB,RGGGH Chennai
+3387,75,FEMALE,11.07.2020,25.07.2020,Respiratory Failure ; COVID Pneumonia ; Type 2 Diabetes Mellitus ; Systemic Hypertension,RGGGH Chennai
+3388,71,MALE,21.06.2020,24.07.2020,Acute Respiratory Distress Syndrome ; Respiratory Failure ; COVID Pneumonia,RGGGH Chennai
+3389,52,FEMALE,03.07.2020,24.07.2020,Sepsis ; Septic Encephalopathy ; COVID Pneumonia ; PAH ; RV Dysfunction ; Hypothyroidism ; COVID 19,RGGGH Chennai
+3390,60,FEMALE,08.07.2020,24.07.2020,Cardiorespiratory Failure ; COVID Positive ; Acute Encephalopathy ; COVID 19,RGGGH Chennai
+3391,65,FEMALE,17.07.2020,24.07.2020,AKI ; Sepsis ; Septic Encephalopathy ; COVID Pneumonia ; Old PTB,RGGGH Chennai
+3392,54,MALE,28.06.2020,24.07.2020,Sepsis ; Septic Encephalopathy ; COVID Pneumonia ; Type 2 Diabetes Mellitus,RGGGH Chennai
+3393,65,SALEM,24.07.2020,25.07.2020,RTA with Traumatic Brain Injury ; Type 2 Diabetes Mellitus ; Systemic Hypertension ; COVID 19 Pneumonia,Government Mohan Kumaramangalam Medical College Hospital
+3394,62,MALE,29.06.2020,24.07.2020,Respiratory Failure ; Viral Pneumonia ; Diabetes Mellitus ; Systemic Hypertension ; Myasthenia Gravis ; COVID Status Positive,Kilpauk Medical College Hospital Chennai
+3395,54,FEMALE,09.07.2020,24.07.2020,Respiratory Failure ; Viral Pneumonia ; Type 2 Diabetes Mellitus ; COVID Status Positive,Kilpauk Medical College Hospital Chennai
+3396,74,MALE,20.07.2020,23.07.2020,COVID 19 Positive ; Bilateral Pneumonia ; Acute Respiratory Distress Syndrome ; Systemic Hypertension ; Coronary Artery Disease,Sivagangai Medical College Hospital
+3397,71,MALE,22.07.2020           ,23.07.2020,Acute Respiratory Distress Syndrome ; Diabetes Mellitus ; COVID Positive Pneumonia ; Systemic Hypertension,Government Rajaji Hospital Madurai
+3398,84,MALE,24.07.2020    ,25.07.2020,Cardiorespiratory Arrest ; COVID 19 Pneumonia ; Coronary Artery Disease ; Systemic Hypertension,Chengalpattu Medical College Hospital
+3399,40,MALE,16.07.2020,24.07.2020,Acute Respiratory Distress Syndrome ; Chronic Kidney Disease ; COVID Positive Pneumonia ; Systemic Hypertension,Government Rajaji Hospital Madurai
+3400,80,MALE,20.07.2020,24.07.2020,Acute Respiratory Distress Syndrome ; Diabetes Mellitus ; Systemic Hypertension ; COVID Positive Pneumonia,Government Rajaji Hospital Madurai
+3401,57,MALE,21.07.2020,24.07.2020,Acute Respiratory Distress Syndrome ; Diabetes Mellitus ; COVID Positive Pneumonia,Government Rajaji Hospital Madurai
+3402,65,MALE,23.07.2020,24.07.2020,Acute Respiratory Distress Syndrome ; Diabetes Mellitus ; COVID Positive Pneumonia,Government Rajaji Hospital Madurai
+3403,50,MALE,21.07.2020,24.07.2020,Acute Respiratory Distress Syndrome ; Decompensated Liver Disease ; Oesophageal Varices ; COVID Positive Pneumonia,Government Rajaji Hospital Madurai
+3404,75,MALE,19.07.2020,24.07.2020,Cardiopulmonary Arrest ; Respiratory Failure ; Viral Pneumonia ; COVID Positive ; Systemic Hypertension,Chengalpattu Medical College Hospital
+3405,79,MALE,12.07.2020,24.07.2020,Respiratory Failure ; Viral Pneumonia ; Systemic Hypertension ; COVID Positive Pneumonia,Kilpauk Medical College Hospital Chennai
+3406,51,MALE,22.07.2020,NA,NA,Coimbatore Medical College Hospital
+3407,65,FEMALE,21.07.2020,23.07.2020,Cardiogenic Shock ; Acute Pulmonary Edema ; Congestive Cardiac Failure ; Metabolic Encephalopathy ; Type 2 Diabetes Mellitus ; COVID 19 Positive,Coimbatore Medical College Hospital
+3408,61,MALE,19.07.2020,24.07.2020,COVID Positive ; Cardio Pulmonary Arrest ; Systemic Hypertension ; Type 2 Diabetes Mellitus,Chengalpattu Medical College Hospital
+3409,96,MALE,23.07.2020,23.07.2020,Bilateral Bronchopneumonia ; COVID Positive,Coimbatore Medical College Hospital
+3410,43,MALE,24.07.2020,25.07.2020,COVID Pneumonia;Respiratory failure,
+3411,43,MALE,19.7.2020,25.07.2020,NA,
+3412,77,FEMALE,07.07.2020,26.07.2020,Sepsis ; Multi Organ Dysfunction Syndrome ;COVID 19 Pneumonia,
+3413,72,MALE,24.07.2020,25.07.2020,NA,
+3414,82,MALE,17.07.2020,25.07.2020,Carcinoma Sigmoid Colon;COVID 19 pneumonia,Private Madurai
+3415,38,MALE,14.07.2020,25.07.2020,COVID 19;Dilated Cardio myopathy;severe biventricular failure ; severe MR ; TR ; severe PAH ;CAD,Chennaiwith
+3416,87,FEMALE,14.07.20,25.07.2020,cardiac arrest;Ischemic infarction;COVID 19,
+3417,70,MALE,14.07.20,25.07.2020,ARDS ;COVID 19,
+3418,67,MALE,15.07.2020,25.07.2020,NA,Hospital
+3419,85,MALE,19.7.2020,25.07.2020,NA,Vellore
+3420,79,MALE,24.07.2020,25.07.2020,NA,Vellore
+3421,80,MALE,24.07.2020,25.7.2020,NA,
+3422,70,MALE,19.7.2020,25.7.2020,NA,Hospital
+3423,50,MALE,06.07.2020,25.7.2020,NA,Madurai
+3424,60,MALE,21.6.2020,25.07.2020,NA,Medical College
+3425,NA,MALE,05.07.2020,24.07.2020,Hypoxemic respiratory failure;Sepsis;COVID 19,
+3426,65,FEMALE,22.07.2020,24.07.2020,COVID 19 ; sepsis ; septic shock ;MODS,Chennai
+3427,73,MALE,24.07.2020,24.07.2020,ACS with Severe respiratory acidosis;COVID 19 pneumonia,Hospital Chennai
+3428,73,MALE,20.07.2020,24.07.2020,COVID 19 Pneumonia,Madurai
+3429,43,FEMALE,20.07.2020,24.07.2020,Traumatic Brain Injury ; ARDS ;COVID 19,Medical College Madurai
+3430,65,FEMALE,09.07.2020,24.07.2020,Severe ARDS ; respiratory failure ;COVID 19,Medical College Madurai
+3431,75,MALE,14.07.2020,24.07.2020,COVID 19 ; COPD,Medical College Madurai
+3432,66,FEMALE,21.07.2020,24.07.2020,NA,Vellore
+3433,66,MALE,24.07.2020,24.07.2020,COVID -19 ; ARDS,Vellore
+3434,73,FEMALE,23.07.2020,24.07.2020,COVID -19 ;ARDS,Hospital
+3435,75,FEMALE,09.07.2020,24.07.2020,COVID -19 ; ARDS,Hospital
+3436,64,MALE,23.07.2020,24.07.2020,NA,Hospital Madurai
+3437,71,MALE,11.7.2020,24.7.2020,NA,Hospital Madurai
+3438,55,MALE,23.07.2020,24.07.2020,NA,Hospital Madurai
+3439,65,FEMALE,18.7.2020,24.7.2020,NA,Hospital
+3440,75,MALE,28.06.2020,03.07.2020,COVID 19 Pneumonia;ARDS,Hospital Tirunelveli
+3441,53,MALE,08.07.2020,11.07.2020,COVID 19 Pneumonia ;cardio respiratory arrest,Hospital Tirunelveli
+3442,87,MALE,03.07.2020,11.07.2020,COVID 19 Pneumonia;cardio respiratory arrest,Hospital Tirunelveli
+3443,76,MALE,15.07.2020,21.07.2020,COVID 19 Pneumonia;cardio respiratory arrest,Hospital Tirunelveli
+3444,57,FEMALE,09.07.2020,19.07.2020,COVID 19 Pneumonia;cardio respiratory arrest,Hospital Tirunelveli
+3445,60,FEMALE,24.06.2020,25.06.2020,cardio respiratory arrest ;COVID 19,Hospital Tirunelveli
+3446,62,FEMALE,23.07.2020             ,25.07.2020,Diabetic ketoacidosis ; Cardio Respiratory arrest ;COVID Pneumonia,
+3447,68,FEMALE,16.7.2020,25.7.2020,Severe COVID-19 Pneumonia;Respiratory Failure,Breathing
+3448,50,MALE,14.07.2020,24.07.2020,NA,Breathing
+3449,75,FEMALE,21.07.2020,25.07.2020,Severe COVID Pneumonia ;Type 2Diabetes Mellitus ; Renal Failure ; COVID 19 Positive,Government Medical College ESI Hospital
+3450,55,MALE,22.07.2020,24.07.2020,Acute Respiratory Failure ; COVID Pneumonia ; COVID 19 Positive,Tirunelveli Medical College Hospital
+3451,15,FEMALE,19.07.2020,20.07.2020,COVID 19 Positive ; COVID Myocarditis ; Cardiogenic Shock ; SVT,Thanjavur Medical College Hospital
+3452,37,MALE,20.07.2020,25.07.2020,Acute Respiratory Distress Syndrome ; Acute Respiratory Failure ; COVID Pneumonia ; COVID Positive,Govt
+3453,64,MALE,20.07.2020,25.07.2020,Atrial Fibrillation; Viral Myocarditis ; Acute Respiratory Distress Syndrome ; Acute Respiratory Failure ; COVID Pneumonia ; COVID Positive,Govt
+3454,56,MALE,21.07.2020 (Brought,21.07.2020,COVID 19 Pneumonia ; Respiratory Failure,KAPV Medical College MGMGH Trichy
+3455,36,FEMALE,18.07.2020 (Brought,18.07.2020,Brought Dead ; COVID Status Positive,Kilpauk Medical College Hospital Chennai
+3456,60,MALE,05.07.2020 (Brought,05.7.2020,COVID Status Positive,Kilpauk Medical College Hospital Chennai
+3457,59,MALE,08.07.2020,08.7.2020,Respiratory Failure ; Viral Pneumonia ; COVID Positive,Government Roypettah Hospital Chennai
+3458,NA,FEMALE,24.07.2020,25.07.2020,Respiratory Failure ; COVID Pneumonia ; Choric Kidney Disease,Kanyakumari Medical College Hospital Asaripallam
+3459,NA,MALE,19.07.2020,NA,NA,Thiruvannamalai Medical College Hospital
+3460,65,MALE,18.07.2020,NA,NA,Thiruvannamalai Medical College Hospital
+3461,67,MALE,16.07.2020,24.07.2020,COVID 19 Positive ; Acute Respiratory Failure ; Type 2Diabetes Mellitus ; Systemic Hypertension; Choric Kidney Disease,Theni Medical College Hospital
+3462,75,MALE,15.07.2020,16.07.2020,Respiratory Failure ; COVID 19 Positive,Tirunelveli Medical College Hospital
+3463,80,SALEM,22.07.2020,26.07.2020,COVID 19 Pneumonia; Respiratory Failure ; Type 2Diabetes Mellitus ; Systemic Hypertension,Government Mohan Kumaramangalam Medical College Hospital
+3464,34,FEMALE,21.07.2020,26.07.2020,COVID 19 Pneumonia ; Circulatory Failure; Cardio Pulmonary Arrest ;Systemic Hypertension ; Type 2Diabetes Mellitus ; Chronic Kidney Disease ; Coronary Artery Disease,Dharmapuri Medical College Hospital
+3465,55,FEMALE,24.07.2020,26.07.2020,COVID 19 Pneumonia ; Circulatory Failure ; Cardio Pulmonary Arrest ;Systemic Hypertension,Dharmapuri Medical College Hospital
+3466,71,MALE,24.07.2020,25.07.2020,Respiratory Failure ; COVID Pneumonia,Kanyakumari Medical College Hospital Asaripallam
+3467,44,MALE,24.07.2020,24.07.2020,Respiratory Failure ; COVID Pneumonia ; Hepatic Encephalopathy,Kanyakumari Medical College Hospital Asaripallam
+3468,58,MALE,21.07.2020,25.07.2020,NA,Govt
+3469,73,MALE,13.07.2020,26.07.2020,Viral Pneumonia ; Coronary Artery Disease ; COVID Positive,Kilpauk Medical College Hospital Chennai
+3470,68,FEMALE,23.07.2020,25.07.2020,Sudden Cardio Respiratory Arrest ; Viral Pneumonia ; Coronary Artery Disease ; Status Post Mitral Valve Replacement ; Diabetes Mellitus ; COVID Positive,Kilpauk Medical College Hospital Chennai
+3471,65,FEMALE,23.07.2020,25.07.2020,Respiratory Failure ; Viral Pneumonia ; Chronic Kidney Disease ; Diabetes Mellitus ; COVID Positive,Kilpauk Medical College Hospital Chennai
+3472,47,MALE,20.07.2020,24.07.2020,Acute Respiratory Distress Syndrome ; Chronic Kidney Disease ; Hypertension ; COVID Positive Pneumonia,Govt
+3473,77,MALE,17.07.2020,24.07.2020,Acute Respiratory Distress Syndrome ; Diabetes Mellitus ; COVID Positive Pneumonia,Govt
+3474,80,MALE,24.07.2020,24.07.2020,Acute Respiratory Distress Syndrome ; Diabetes Mellitus ; Coronary Artery Disease ; Hypertension ; COVID Positive Pneumonia,Govt
+3475,65,MALE,24.07.2020,24.07.2020,Acute Respiratory Distress Syndrome ; Diabetes Mellitus ; COVID Positive Pneumonia,Govt
+3476,69,MALE,22.07.2020,25.07.2020,Acute Respiratory Distress Syndrome ; Diabetes Mellitus ; Hypertension ; COVID Positive Pneumonia,Govt
+3477,65,MALE,21.07.2020,25.07.2020,Acute Respiratory Distress Syndrome ; Hypertension ; Seizure Disorder ; COVID Positive Pneumonia,Govt
+3478,40,MALE,23.07.2020,25.07.2020,Respiratory Failure ; COVID Positive ; Chronic Kidney Disease on Hemodialysis ; T2 Diabetes Mellitus ; Chronic Kidney Disease,Rajiv Gandhi Govt
+3479,75,MALE,25.07.2020,25.07.2020,Cardio Respiratory Failure ; Hollow Viscous Perfortaion ; S;P Emergency Laparotomy ; With Omental Patch Repair ; COVID 19 Infection,Rajiv Gandhi Govt
+3480,70,FEMALE,22.07.2020,25.07.2020,Respiratory Failure ; COVID Pneumonia ; Diabetes Mellitus,Rajiv Gandhi Govt
+3481,87,MALE,22.07.2020,25.07.2020,Cardio Respiratory Failure ; COVID Pneumonia ; Coronary Artery Disease,Rajiv Gandhi Govt
+3482,65,MALE,24.07.2020,25.07.2020,Sepsis ; Septic Encephalopathy ; COVID Pneumonia ; HTN ; Diabetes Mellitus,Rajiv Gandhi Govt
+3483,48,FEMALE,11.07.2020,25.07.2020,Respiratory Failure ; COVID Pneumonia ; T2 Diabetes Mellitus,Rajiv Gandhi Govt
+3484,65,MALE,10.07.2020,25.07.2020,Respiratory Failure ; COVID Pneumonia ; Acute Respiratory Distress Syndrome ; Diabetes Mellitus,Rajiv Gandhi Govt
+3485,93,MALE,25.07.2020,25.07.2020,Cardio Respiratory Failure ; COVID Pneumonia,Rajiv Gandhi Govt
+3486,65,FEMALE,23.07.2020,25.07.2020,ESRD on HD ; Sepsis ; COVID Positive ; HTN ; Diabetes Mellitus,Rajiv Gandhi Govt
+3487,41,MALE,12.07.2020,26.07.2020,Respiratory Failure ; COVID Pneumonia ; Diabetes Mellitus,Rajiv Gandhi Govt
+3488,60,MALE,18.07.2020,26.07.2020,Respiratory Failure ; COVID Pneumonia ; Acute Respiratory Distress Syndrome,Rajiv Gandhi Govt
+3489,82,MALE,25.07.2020,25.07.2020,Acute Respiratory Distress Syndrome ; Acute Respiratory Failure ; COVID Pneumonia ; Diabetes Mellitus ; SHT ; Coronary Artery Disease ; SAH in left parietal lobe ; ICH in left Temporal lobe ; COVID Positive,Govt
+3490,64,MALE,11.07.2020,25.07.2020,Acute Respiratory Distress Syndrome ; Acute Respiratory Failure ; COVID Pneumonia ; Diabetes Mellitus ; SHT ; Acute on Chronic Kidney Disease ; Uremic Encephalopathy ; COVID Positive,Govt
+3491,42,MALE,12.07.2020,14.07.2020,Coronary Artery Disease ; ACS ; STEMI ; QRBBB Extensive AWMI ; Cardiogenic shock ; Type 2Diabetes Mellitus ; Sudden Cardiac Arrest ; Asystole ; COVID Positive,Government Stanley Hospital Chennai
+3492,87,MALE,12.07.2020,13.07.2020,Acute Respiratory Distress Syndrome; Viral Pneumonia ; Diabetes Mellitus ; COVID Status Positive,Kilpauk Medical College Hospital Chennai
+3493,73,FEMALE,08.07.2020,10.07.2020,Acute Respiratory Distress Syndrome ; Viral Pneumonia ; COVID Status Positive,Kilpauk Medical College Hospital Chennai
+3494,58,FEMALE,07.07.2020,10.07.2020,Respiratory Failure ; COVID 19 Pneumonia,RGGGH Chennai
+NO,78,MALE,18.07.2020,25.07.2020,ARDS ; Respiratory failure;cardio respiratory arrest;COVID 19 pneumonitis,Breathing
+3534,62,FEMALE,20.07.2020,25.07.2020,Severe COVID19 Pneumonia ; Systemic Hypertension,Government Medical College ESI Hospital
+3535,64,FEMALE,23.07.2020,25.07.2020,Acute Respiratory Distress Syndrome ; COVID Positive,Tirunelveli Medical College Hospital
+3536,52,FEMALE,23.07.2020,25.07.2020,COVID Pneumonia ; COVID Positive,Tirunelveli Medical College Hospital
+3537,44,MALE,22.07.2020,NA,NA,Chengalpattu Medical College Hospital
+3538,62,SALEM,16.07.2020,26.07.2020,COVID 19 Pneumonia; Respiratory Failure ; Septic Shock,Government Mohan Kumaramangalam Medical College Hospital
+3539,45,FEMALE,21.07.2020,24.07.2020,COVID Pneumonia ; COVID Positive,Tirunelveli Medical College Hospital
+3540,59,MALE,25.07.2020,26.07.2020,Acute Respiratory Distress Syndrome ; COVID Positive Pneumonia,Govt Rajaji Hospital Madurai
+3541,70,FEMALE,23.07.2020,25.07.2020,Acute Respiratory Distress Syndrome ; COVID Positive,Tirunelveli Medical College Hospital
+3542,57,MALE,23.07.2020,24.07.2020,Acute Respiratory Distress Syndrome ; COVID Positive,Tirunelveli Medical College Hospital
+3543,62,MALE,24.07.2020,25.07.2020,Bilateral Bronchopneumonia ; COVID Positive ; Suspected Posterior Circulation Stroke ; Systemic Hypertension ; Type 2 Diabetes Mellitus,Coimbatore Medical College Hospital
+3544,35,MALE,24.07.2020,25.07.2020,Aspiration Pneumonia ; Metabolic Encephalopathy ; Poorly Controlled Type 2 Diabetes Mellitus ; Chronic Kidney Disease ; Systemic Hypertension ; COVID 19 Positive,Chengalpattu Medical College Hospital
+3545,60,FEMALE,24.07.2020,26.07.2020,Cardiorespiratory Arrest ; Metabolic Encephalopathy ; Carcinoma Cervix on Chemotherapy ; Type 2 Diabetes Mellitus ; Old Carcinoma Right Brest Post MRM ; COVID 19 Positive,Chengalpattu Medical College Hospital
+3546,80,FEMALE,23.07.2020,25.07.2020,Cardiorespiratory Arrest ; Sudden Cardiac Arrest ; Systemic Hypertension ; COVID 19 Positive,Chengalpattu Medical College Hospital
+3547,75,MALE,29.06.2020,25.07.2020,Hematemesis ; Hypovolemic shock ; Cardiorespiratory Arrest ; COVID 19 Pneumonia ; Systemic Hypertension ; Type 2 Diabetes Mellitus ; OLD CVA,Chengalpattu Medical College Hospital
+3548,80,MALE,24.07.2020,25.07.2020,Acute Respiratory Distress Syndrome ; Viral Pneumonia ; COVID 19 Positive ; Systemic Hypertension,Chengalpattu Medical College Hospital
+3549,67,FEMALE,22.07.2020,26.07.2020,Acute Respiratory Failure ; COVID 19 Positive ; Diabetes Mellitus ; Systemic Hypertension,Chengalpattu Medical College Hospital
+3550,58,SALEM,25.07.2020,25.07.2020,Type 2 Diabetes Mellitus ; COVID 19 Pneumonia ; Respiratory Failure,Government Mohan Kumaramangalam Medical College Hospital
+3551,43,SALEM,26.07.2020,26.07.2020,Type 2 Diabetes Mellitus ; Hypothyroidism ; COVID 19 Pneumonia,Government Mohan Kumaramangalam Medical College Hospital
+3552,31,MALE,16.07.2020,26.07.2020,Respiratory Failure ; Bronchopneumonia AKI ; COVID Positive ; Type 2 Diabetes Mellitus ; Systemic Hypertension,Government Stanley Hospital Chennai
+3553,79,MALE,26.07.2020,26.07.2020,NA,KAPV Government Medical College MGMH Trichy
+3554,56,MALE,23.07.2020,24.07.2020,NA,Govt Rajaji Hospital Madurai
+3555,43,FEMALE,23.07.2020,24.07.2020,NA,Govt Rajaji Hospital Madurai
+3556,65,FEMALE,25.07.2020,25.07.2020,NA,Govt Rajaji Hospital Madurai
+3557,74,MALE,09.07.2020,25.07.2020,NA,Govt Rajaji Hospital Madurai
+3558,51,FEMALE,26.07.2020,26.07.2020,NA,Rajiv Gandhi Govt General Hospital Chennai
+3559,26,MALE,23.07.2020,26.07.2020,Anaemia ; Hypernatremic Encephalopathy ; COVID Pneumonia ; Acute Necrotising Pancreatitis,Rajiv Gandhi Govt General Hospital Chennai
+3560,60,FEMALE,10.07.2020,26.07.2020,Diabetes Mellitus ; COVID Pneumonia ; Respiratory Failure,Rajiv Gandhi Govt General Hospital Chennai
+3561,31,MALE,18.07.2020,26.07.2020,HTN ; Hyponatramic Encephalopathy ; Leg Hygroma ; Central Pontine Myelinosis ; COVID Pneumonia ; Respiratory Failure,Rajiv Gandhi Govt General Hospital Chennai
+3562,55,FEMALE,22.07.2020,NA,NA,Rajiv Gandhi Govt General Hospital Chennai
+3563,73,MALE,22.07.2020,27.07.2020,Frontotemporal Subdural Hematoma ; COVID Positive ; HTN,Rajiv Gandhi Govt General Hospital Chennai
+3564,59,MALE,26.07.2020,26.07.2020,Type 2 Diabetes Mellitus ; Left Nephrectomy ; COVID Pneumonia ; Respiratory Failure,Rajiv Gandhi Govt General Hospital Chennai
+3565,58,FEMALE,24.07.2020,27.07.2020,Type 2 Diabetes Mellitus ; Cardiac Failure ; COVID Positive ; Volume Overload Status ; Cardiogenic Shock,Rajiv Gandhi Govt General Hospital Chennai
+566,75,MALE,24.07.2020,24.07.2020,COVID Positive,Coimbatore Medical College Hospital
+3567,48,FEMALE,07.07.2020,10.07.2020,Respiratory Failure ; Viral Pneumonia ; Hyperthyroidism ; COVID Status Positive,Kilpauk Medical College Hospital Chennai
+3568,58,MALE,10.07.2020,11.07.2020,Viral Pneumonia ; Systemic Hypertension ; COVID Status Positive,Kilpauk Medical College Hospital Chennai
+3569,37,FEMALE,02.07.2020,11.07.2020,Acute Respiratory Distress Syndrome ; Coronary Artery Disease ; Moderate Left Ventricular Dysfunction ; Acute on Chronic Diabetic Kidney Disease ; Diabetes Mellitus ; Systemic Hypertension ; COVID Status Positive,Kilpauk Medical College Hospital Chennai
+3570,80,MALE,02.07.2020,09.07.2020,Respiratory Failure ; COVID Pneumonia ; Sepsis ; Multiple Organ Dysfunction Syndrome,Kilpauk Medical College Hospital Chennai
+3571,61,MALE,06.07.2020,09.07.2020,Respiratory Failure ; COVID Pneumonia ; Psychiatric Illness,Kilpauk Medical College Hospital Chennai
+3573,NA,FEMALE,19.07.2020,27.07.2020,NA,Madurai Complaints
+3574,60,MALE,25.07.2020,27.07.2020,NA,Medical College Hospital
+3575,66,MALE,02.07.2020,27.07.2020,Type I respiratory failure ; COVID-19,Chennai
+3576,81,FEMALE,22.07.2020,27.07.2020,Type II Respiratory failure ; Bilateral pneumonia ;COVID-19,Chennai
+3577,70,MALE,24.07.2020,27.07.2020,cardio pulmonary arrest ; respiratory failure ;COVID-19 pneumonia,
+3578,93,MALE,25.07.2020,27.07.2020,cardio pulmonary arrest ; ARDS ; multi organ failure ;COVID-19,Chennai
+3579,73,MALE,19.07.2020,27.07.2020,cardio respiratory arrest ; COVID-19,Madurai
+3580,77,MALE,16.07.2020,NA,ARDS ; MODS ; COVID-19,Chennai
+3581,77,MALE,23.07.2020,27.07.2020,ARDS ; COVID-19,Medical College Hospital Madurai
+3582,90,MALE,22.07.2020,27.07.2020,NA,Chennai
+3583,67,MALE,15.06.2020,27.07.2020,Sepsis ; MODS ; COVID-19,Chennai
+3584,84,MALE,21.07.20,27.07.2020,cardio respiratory arrest ; COVID-19 pneumonia,Madurai
+3585,46,MALE,14.07.2020,27.07.2020,NA,Madurai Complaints
+3586,NA,MALE,13.07.2020,28.07.2020,Severe ARDS ;COVID-19 Pneumonia;Septic Shock,Madurai Complaints
+3587,NA,MALE,25.07.2020,28.07.2020,NA,Complaints
+3588,NA,FEMALE,9.7.2020,28.7.2020,NA,
+3589,NA,MALE,25.07.2020,28.07.2020,Respiratory Failure; Cardiac Arrest ;COVID-19 Pneumonia,Complaints
+3590,NA,MALE,26.07.2020,28.07.2020,Sudden Cardiac Arrest ; SARI ;COVID-19 Pneumonia,Complaints
+3591,66,FEMALE,25.07.2020,25.07.2020,UGI bleed ; COVID-19 pneumonia ;Hypovolemic shock,Hospital Chennai
+3592,78,MALE,20.07.2020,21.07.2020,viral COVID-19 pneumonia ; ARDS ;Type I respiratory failure,Chennai
+3593,NA,MALE,19.07.2020,24.07.2020,NA,Complaints
+3594,NA,FEMALE,16.07.2020,23.07.2020,Respiratory Failure ; Cardio Respiratory Arrest ; COVID-19 Pneumonia,Complaints
+3595,NA,MALE,24.07.2020,26.07.2020,NA,Breathing
+3596,65,MALE,08.07.2020,12.07.2020,acute intra cerebral hemmorhage ; COVID-19,
+3597,60,FEMALE,15.07.2020,17.07.2020,cardio respiratory arrest ; COVID-19,
+3598,54,MALE,12.07.2020,12.07.2020,Acute respiratory failure ; Myasthenia Gravis ;COVID-19,
+3599,NA,MALE,25.07.2020,25.07.2020,NA,Breathing
+3600,NA,MALE,21.07.2020,25.07.2020,NA,
+3601,90,MALE,23.07.2020,27.07.20,Respiratory failure ; COVID- 19 pneumonia,
+3602,62,MALE,08.07.2020,26.07.2020,COVID Pneumonia ; Diabetes Mellitus,Government Medical College ESI Hospital Coimbatore
+3603,34,FEMALE,NA,25.07.2020,Acute Respiratory Distress Syndrome ; COVID Pneumonia,Thiruvarur Medical College Hospital Thiruvarur
+3604,59,MALE,NA,27.07.2020,COVID Pneumonia ; Respiratory Failure,Rajiv Gandhi Govt General Hospital Chennai
+3605,50,MALE,NA,25.07.2020,Left FT Depressed Fracture ; Left FT EDH,Rajiv Gandhi Govt General Hospital Chennai
+3606,29,MALE,NA,27.07.2020,COVID Positive ; Gluteal Abcess ; Renal Failure ; MODS ; Septic Shock,Rajiv Gandhi Govt General Hospital Chennai
+3607,54,MALE,NA,28.07.2020,COVID Pneumonia ; Respiratory Failure ; Old PTB ; Acute Respiratory Distress Syndrome,Rajiv Gandhi Govt General Hospital Chennai
+3608,35,MALE,NA,24.07.2020,Aspiration Pneumonitis ; Sepsis ; Acid Poisoning,Govt Royapettah Hospital Chennai
+3609,65,FEMALE,25.07.2020,26.07.2020,ARDS ; Bilateral Pneumonia ; COVID19 Positive Systemic Hypertension,Sivagangai Medical College Hospital
+3610,60,MALE,19.07.2020,26.07.2020,NA,Theni Medical College Hospital
+3611,55,FEMALE,22.07.2020,25.07.2020,COVID 19 Pneumonia ; Acute Respiratory Failure ; COPD,Theni Medical College Hospital
+3612,49,MALE,24.07.2020,27.07.2020,Respiratory Failure ; COVID Positive ; Viral Pneumonia ; Systemic Hypertension ; Type 2 Diabetes Mellitus ; Chronic Kidney Disease stage V,Thanjavur Medical College Hospital
+3613,77,MALE,22.07.2020,27.07.2020,Respiratory Failure ; COVID Positive ; Viral Pneumonia ; Systemic Hypertension ; Coronary Artery Disease,Thanjavur Medical College Hospital
+3614,60,MALE,17.07.2020,26.07.2020,ARDS ; Acute Respiratory Failure ; COVID Pneumonia ; Systemic Hypertension ; Coronary Artery Disease ; COVID 19 Positive,Government Medical College Omandurar Government Estate
+3615,70,MALE,25.07.2020,26.07.2020,Sepsis ; Septic Shock ; Acute Respiratory Distress Syndrome ; Acute Respiratory Failure ; COVID Pneumonia ; COVID 19 Positive,Government Medical College Omandurar Government Estate
+3616,77,MALE,28.06.2020,26.07.2020,ARDS ; Acute Respiratory Failure ; COVID Pneumonia ; Diabetes Mellitus ; Systemic Hypertension ; COVID 19 Positive,Government Medical College Omandurar Government Estate
+3617,83,MALE,21.07.2020,27.07.2020,Acute Cerebrovascular Accident Left Hemiplegia ; Atrial Fibrillation with Rapid Ventricular Response ; Systemic Hypertension ; Coronary Artery Disease ; COVID Status Positive,Kilpauk Medical College Hospital Chennai
+3618,50,MALE,23.07.2020,26.07.2020,Respiratory Failure ; Viral Pneumonia ; Coronary Artery Disease ; Diabetes Mellitus ; COVID Status Positive,Kilpauk Medical College Hospital Chennai
+3619,55,FEMALE,18.07.2020,27.07.2020,Respiratory Failure ; Viral Pneumonia ; Chronic Kidney Disease ; Coronary Artery Disease ; Systemic Hypertension ; Diabetes Mellitus ; COVID Status Positive,Kilpauk Medical College Hospital Chennai
+3620,70,FEMALE,23.07.2020,26.07.2020,Acute Viral Pneumonia ; Respiratory Failure ; Multiple Myeloma,Chengalpattu Medical College Hospital
+3621,51,FEMALE,20.07.2020,26.07.2020,Acute Respiratory Distress Syndrome ; Acute Viral Pneumonia ; Respiratory Failure ; Type 2 Diabetes Mellitus,Chengalpattu Medical College Hospital
+3622,56,MALE,09.07.2020,26.07.2020,Septic Shock ; Acute Respiratory Distress Syndrome ; Viral Pneumonia ; Respiratory Failure ; Coronary Artery Disease ; Post CABG ; Type 2 Diabetes Mellitus ; COVID Positive,Chengalpattu Medical College Hospital
+3623,58,MALE,17.07.2020,26.07.2020,Viral Pneumonia ; Respiratory Failure ; Diabetic Ketoacidosis ; Deep Vein Thrombosis ; Type 2 Diabetes Mellitus,Chengalpattu Medical College Hospital
+3624,57,MALE,NA,27.07.2020,Acute Pulmonary Edema ; CKD ; ESRD ; COVID Positive,Thiruvananamalai Medical College Hospital
+3625,5,FEMALE,NA,27.07.2020,ALL ; Pneumonia ; Febrile Neutropenia ; COVID 19 Infection ; Sepsis ; Shock,
+3626,78,MALE,NA,27.07.2020,Pneumonia ; Respiratory Failure ; COVID Positive ; Diabetes Mellitus,Kanyakumari Medical College Hospital Asaripallam
+3627,NA,FEMALE,NA,27.07.2020,COVID Positive ; Bilateral Bronchopneumonia ; Hypoxic Encephalopathy ; Bronchial Asthma ; Acute exacerbation,Coimbatore Medical College Hospital
+3628,52,MALE,NA,26.07.2020,Bilateral Bronchopneumonia ; COVID Positive ; Chronic Kidney Disease ; Type 2 Diabetes Mellitus ; Systemic Hypertension,Coimbatore Medical College Hospital
+3629,44,MALE,NA,26.07.2020,Respiratory Failure ; COVID Pneumonia ; Pulmonary Tuberculosis,Thoothukudi Medical College Hospital Thoothukudi
+3630,69,MALE,NA,26.07.2020,Respiratory Failure ; COVID Pneumonia ; Coronary Artery Disease ; Systemic Hypertension ; Elderly male ,Thoothukudi Medical College Hospital Thoothukudi
+3631,73,MALE,NA,27.07.2020,Acute LVF ; Accelerated Systemic Hypertension ; Type 2 Diabetes Mellitus ; Old CVA; COVID Positive ; Elderly male,Thoothukudi Medical College Hospital Thoothukudi
+3632,58,FEMALE,NA,25.07.2020,Respiratory Failure ; COVID Pneumonia ; Type 2 Diabetes Mellitus,Thoothukudi Medical College Hospital Thoothukudi
+3633,64,MALE,19.07.2020,22.07.2020,COVID Pneumonia ; Chronic Kidney Disease ; SHTN,Thiruvarur Medical College Hospital Thiruvarur
+3634,39,MALE,NA,19.07.2020,Cardio Respiratory Arrest ; RTA with Head Injury ; ICH ; COVID Positive,Thiruvarur Medical College Hospital Thiruvarur
+3635,50,MALE,14.07.2020,NA,COVID Positive ; Cardiopulmonary Arrest ; Electrical Shock 53% ; Septic Shock,Thanjavur Medical College Hospital Thanjavur
+3636,75,MALE,16.07.2020,26.07.2020,Respiratory Failure ; Viral Pneumonia ; COVID Positive ; Right Leg Cellulitis ; Type 2 Diabetes Mellitus ; Systemic Hypertension,Chengalpattu Medical College Hospital Chengalpattu
+3637,75,FEMALE,NA,28.07.2020,Sepsis ; Septic Shock; Bronchopneumonia; Acute Encephalopathy; Systemic Hypertension,Govt
+3638,63,MALE,24.07.2020,27.07.2020,Acute Respiratory Distress Syndrome; Respiratory Failure; Pneumonia; Type 2 Diabetes Mellitus; Chronic Kidney Disease,Govt
+3639,48,SALEM,25.07.2020,26.07.2020,Respiratory Failure; Atypical Pneumonia ; Type 2 Diabetes Mellitus ; COVID 19 Pneumonia,GMKMCH Salem
+3640,70,SALEM,NA,27.07.2020,Type 2 Diabetes Mellitus; Systemic Hypertension; Coronary Artery Disease ; COVID 19 Pneumonia; Respiratory Failure,GMKMCH Salem
+3641,76,MALE,NA,27.07.2020,Respiratory Failure ;Acute Respiratory Distress Syndrome ; BP ; COVID Positive,Govt
+3642,80,FEMALE,NA,27.07.2020,Sepsis ; Septic Shock ; Left Knee Ulcer ; Incidental COVID 19 Positive,Villupuram Medical College Hospital Villupuram
+3643,70,MALE,NA,27.07.2020,COVID Pneumonia; Respiratory Failure,Rajiv Gandhi Govt General Hospital Chennai
+3644,54,FEMALE,NA,27.07.2020,Acute on Chronic Renal Failure ; COVID Positive ; Respiratory Failure,Rajiv Gandhi Govt General Hospital Chennai
+3645,75,FEMALE,NA,27.07.2020,COVID Pneumonia ; Respiratory Failure,Rajiv Gandhi Govt General Hospital Chennai
+3646,48,MALE,NA,27.07.2020,HTN ; Chronic Kidney Disease on MHD ; B;L COVID pneumonia ; Respiratory Failure,Rajiv Gandhi Govt General Hospital Chennai
+3647,75,MALE,NA,27.07.2020,Type 2 Diabetes Mellitus ; Uncontrolled       Hyperglycemia         ;     COVID     Positive     ;    Metabolic Encephalopathy ; Acute Respiratory Distress Syndrome ; Respiratory Failure,Rajiv Gandhi Govt General Hospital Chennai
+3648,68,MALE,NA,27.07.2020,COVID Pneumonia ; Acute on Chronic Kidney Disease ; Metabolic Encephalopathy ; Acute Respiratory Distress Syndrome ; Uro Sepsis,Rajiv Gandhi Govt General Hospital Chennai
+3649,74,HYPERKALEMIA,NA,27.07.2020,Diabetes Mellitus ; Acute on Chronic Kidney Disease ; COVID Pneumonia ; Hyperkalemia ; Metabolic Encephalopathy ; Respiratory Failure,Rajiv Gandhi Govt General Hospital Chennai
+3650,62,FEMALE,NA,26.07.2020,COVID 19 ; Chronic Kidney Disease ; Bilateral Severe Pneumonia ; Acute Respiratory Distress Syndrome ; Diabetes Mellitus ; HTN,Govt Sivagangai Medical College Hospital Sivagangai
+3651,70,MALE,NA,27.07.2020,Acute Respiratory Distress Syndrome ; COVID Positive Pneumonia ; Diabetes Mellitus ; HTN,Govt Rajaji Hospital Madurai
+3652,60,MALE,NA,27.07.2020,Acute Respiratory Distress Syndrome ; COVID Positive ; Diabetes Mellitus ;Systemic Hypertension,Govt Rajaji Hospital Madurai
+3653,40,FEMALE,NA,26.07.2020,Acute Respiratory Distress Syndrome ; COVID Positive Pneumonia ; Diabetes Mellitus,Govt Rajaji Hospital Madurai
+3654,68,FEMALE,NA,26.07.2020,Acute Respiratory Distress Syndrome ; COVID Positive Pneumonia ; Coronary Artery Disease,Govt Rajaji Hospital Madurai
+3655,59,FEMALE,NA,28.07.2020,Aspiration Pneumonitis ; Acute Cerebro Vascular Accident ; Type 2 Diabetes Mellitus,Chengalpattu Medical College Hospital Chengalpattu
+3656,50,MALE,NA,27.07.2020,Acute Respiratory Distress Syndrome ; Viral Pneumonia ; Type 2 Diabetes Mellitus,Chengalpattu Medical College Hospital Chengalpattu
+3657,73,FEMALE,NA,27.07.2020,Aspiration Pneumonia ; Metabolic Encephalopathy ; Uncontrolled Type 2 Diabetes Mellitus ; Acute on Chronic Kidney Disease,Chengalpattu Medical College Hospital Chengalpattu
+3658,50,MALE,NA,12.07.2020,COVID Pneumonia ; Respiratory Failure ; Systemic Hypertension ; Type 2 Diabetes Mellitus,Rajiv Gandhi Govt General Hospital Chennai
+3659,75,MALE,NA,22.07.2020,Respiratory Failure ; Bronchopneumonia ; Septic Shock ; Acute Coronary Syndrome- NSTEMI ; Systemic Hypertension ; COVID Positive,Govt Stanley Hospital Chennai
