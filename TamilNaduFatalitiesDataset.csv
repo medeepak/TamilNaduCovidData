@@ -1,1 +1,10 @@
 Death.No,Age,Gender,Date.Of.Admission,Date.Of.Death,Reason,Hospital
+N0.94,80,MALE,19.05.2020,20.05.2020,Acute Respiratory Distress Syndrome and Pneumonia with Multi Organ failure,Private Hospital Chennai
+N0.117,86,FEMALE,20.05.2020,24.05.2020,Type II Respiratory Failure,Hospital Chennai
+N0.125,53,FEMALE,02.05.2020,23.05.2020,Septic shock with Multi Organ Dysfunction Syndrome and Pneumonia,
+N0.150,32,MALE,28.05.2020,28.05.2020,Cardiopulmonary Arrest ; COVID19 Pneumonia ; Type I Respiratory Failure ; Hypoxic Encephalopathy ; Acute Respiratory Distress Syndrome,RGGGH
+NA,50,FEMALE,21.06.2020,24.06.2020,NA,Chennai
+NO,90,MALE,22.06.2020,29.06.2020,Cardiac Arrest ; COVID-19 Pneumonia,
+NO,65,MALE,19.7.2020,23.7.2020,Acute Pulmonary Edema;COVID-19,Breathing
+hodgkin’s,NA,- HODGKIN’S LYMPHOMA ADMITTED ON 23.07.2020 AT 06.47 PM IN A PRIVATE HOSPITAL WITH COMPLAINTS OF FEVER. COUGH AND DIFFICULTY IN BREATHING FOR 3 DAYS DIED ON 25.07.2020 AT 07.45 AM DUE TO COVID-19 PNEUMONIA.  ,23.07.2020,25.07.2020,NA,Hospital
+NO,78,MALE,18.07.2020,25.07.2020,ARDS ; Respiratory failure;cardio respiratory arrest;COVID 19 pneumonitis,Breathing
